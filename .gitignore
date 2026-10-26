@@ -1,0 +1,11 @@
+.env
+*.db
+privacy_vault.db
+*.log
+__pycache__/
+*.pyc
+venv/
+.venv/
+.idea/
+.vscode/
+.gemini/

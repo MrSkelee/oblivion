@@ -1,0 +1,6674 @@
+[
+  {
+    "id": "acxiom",
+    "name": "Acxiom",
+    "domain": "acxiom.com",
+    "email": "privacyoffice@acxiom.com",
+    "country": "US",
+    "category": "Data Broker & Marketing"
+  },
+  {
+    "id": "criteo",
+    "name": "Criteo",
+    "domain": "criteo.com",
+    "email": "dpo@criteo.com",
+    "country": "EU",
+    "category": "AdTech & Tracking"
+  },
+  {
+    "id": "liveramp",
+    "name": "LiveRamp",
+    "domain": "liveramp.com",
+    "email": "optout@liveramp.com",
+    "country": "US",
+    "category": "Identity Resolution"
+  },
+  {
+    "id": "experian",
+    "name": "Experian",
+    "domain": "experian.com",
+    "email": "dpo@experian.com",
+    "country": "Global",
+    "category": "Credit & Consumer Data"
+  },
+  {
+    "id": "oracle_advertising",
+    "name": "Oracle Data Cloud",
+    "domain": "oracle.com",
+    "email": "privacy_dpo@oracle.com",
+    "country": "US",
+    "category": "Enterprise Data Broker"
+  },
+  {
+    "id": "radaris",
+    "name": "Radaris",
+    "domain": "radaris.com",
+    "email": "privacy@radaris.com",
+    "country": "US",
+    "category": "People Search"
+  },
+  {
+    "id": "spokeo",
+    "name": "Spokeo",
+    "domain": "spokeo.com",
+    "email": "privacy@spokeo.com",
+    "country": "US",
+    "category": "People Search"
+  },
+  {
+    "id": "whitepages",
+    "name": "Whitepages",
+    "domain": "whitepages.com",
+    "email": "privacy@whitepages.com",
+    "country": "US",
+    "category": "Directory"
+  },
+  {
+    "id": "italiaonline",
+    "name": "Italiaonline (PagineBianche/Gialle)",
+    "domain": "italiaonline.it",
+    "email": "privacy@italiaonline.it",
+    "country": "IT",
+    "category": "Directory Italiana"
+  },
+  {
+    "id": "truecaller",
+    "name": "Truecaller",
+    "domain": "truecaller.com",
+    "email": "support@truecaller.com",
+    "country": "EU",
+    "category": "Caller ID & Rubrica"
+  },
+  {
+    "id": "sync_me",
+    "name": "Sync.me",
+    "domain": "sync.me",
+    "email": "privacy@sync.me",
+    "country": "Global",
+    "category": "Caller ID & People Search"
+  },
+  {
+    "id": "callapp",
+    "name": "CallApp",
+    "domain": "callapp.com",
+    "email": "support@callapp.com",
+    "country": "Global",
+    "category": "Caller ID"
+  },
+  {
+    "id": "rocketreach",
+    "name": "RocketReach",
+    "domain": "rocketreach.co",
+    "email": "privacy@rocketreach.co",
+    "country": "US",
+    "category": "People Search"
+  },
+  {
+    "id": "lusha",
+    "name": "Lusha",
+    "domain": "lusha.com",
+    "email": "privacy@lusha.com",
+    "country": "US",
+    "category": "B2B Contact Data"
+  },
+  {
+    "id": "apollo_io",
+    "name": "Apollo.io",
+    "domain": "apollo.io",
+    "email": "privacy@apollo.io",
+    "country": "US",
+    "category": "B2B Contact Database"
+  },
+  {
+    "id": "zoominfo",
+    "name": "ZoomInfo",
+    "domain": "zoominfo.com",
+    "email": "privacy@zoominfo.com",
+    "country": "US",
+    "category": "Enterprise B2B"
+  },
+  {
+    "id": "hunter_io",
+    "name": "Hunter.io",
+    "domain": "hunter.io",
+    "email": "privacy@hunter.io",
+    "country": "EU",
+    "category": "Email Scraper"
+  },
+  {
+    "id": "cognism",
+    "name": "Cognism",
+    "domain": "cognism.com",
+    "email": "privacy@cognism.com",
+    "country": "EU",
+    "category": "B2B Contact Data"
+  },
+  {
+    "id": "kaspr",
+    "name": "Kaspr",
+    "domain": "kaspr.io",
+    "email": "privacy@kaspr.io",
+    "country": "EU",
+    "category": "B2B Lead Scraper"
+  },
+  {
+    "id": "contactout",
+    "name": "ContactOut",
+    "domain": "contactout.com",
+    "email": "support@contactout.com",
+    "country": "US",
+    "category": "Email & Phone Finder"
+  },
+  {
+    "id": "leadiq",
+    "name": "LeadIQ",
+    "domain": "leadiq.com",
+    "email": "privacy@leadiq.com",
+    "country": "US",
+    "category": "B2B Lead Database"
+  },
+  {
+    "id": "signalhire",
+    "name": "SignalHire",
+    "domain": "signalhire.com",
+    "email": "support@signalhire.com",
+    "country": "US",
+    "category": "Contact Finder"
+  },
+  {
+    "id": "uplead",
+    "name": "UpLead",
+    "domain": "uplead.com",
+    "email": "support@uplead.com",
+    "country": "US",
+    "category": "B2B Database"
+  },
+  {
+    "id": "datanyze",
+    "name": "Datanyze",
+    "domain": "datanyze.com",
+    "email": "privacy@datanyze.com",
+    "country": "US",
+    "category": "Tech & People Scraper"
+  },
+  {
+    "id": "clearbit",
+    "name": "Clearbit (HubSpot)",
+    "domain": "clearbit.com",
+    "email": "privacy@clearbit.com",
+    "country": "US",
+    "category": "Data Enrichment"
+  },
+  {
+    "id": "lexisnexis",
+    "name": "LexisNexis",
+    "domain": "lexisnexis.com",
+    "email": "privacy.inquiry@lexisnexis.com",
+    "country": "Global",
+    "category": "Public Records & Legal"
+  },
+  {
+    "id": "equifax",
+    "name": "Equifax",
+    "domain": "equifax.com",
+    "email": "dpo@equifax.com",
+    "country": "Global",
+    "category": "Credit & Financial Bureau"
+  },
+  {
+    "id": "transunion",
+    "name": "TransUnion",
+    "domain": "transunion.com",
+    "email": "dpo@transunion.com",
+    "country": "Global",
+    "category": "Credit & Identity"
+  },
+  {
+    "id": "intelius",
+    "name": "Intelius",
+    "domain": "intelius.com",
+    "email": "privacy@intelius.com",
+    "country": "US",
+    "category": "Background Check & People"
+  },
+  {
+    "id": "peekyou",
+    "name": "PeekYou",
+    "domain": "peekyou.com",
+    "email": "privacy@peekyou.com",
+    "country": "US",
+    "category": "Social Profile Scraper"
+  },
+  {
+    "id": "beenverified",
+    "name": "BeenVerified",
+    "domain": "beenverified.com",
+    "email": "privacy@beenverified.com",
+    "country": "US",
+    "category": "Public Records Aggregator"
+  },
+  {
+    "id": "fastpeoplesearch",
+    "name": "FastPeopleSearch",
+    "domain": "fastpeoplesearch.com",
+    "email": "privacy@fastpeoplesearch.com",
+    "country": "US",
+    "category": "People Search"
+  },
+  {
+    "id": "peoplefinders",
+    "name": "PeopleFinders",
+    "domain": "peoplefinders.com",
+    "email": "privacy@peoplefinders.com",
+    "country": "US",
+    "category": "Public Records"
+  },
+  {
+    "id": "pipl",
+    "name": "Pipl",
+    "domain": "pipl.com",
+    "email": "privacy@pipl.com",
+    "country": "Global",
+    "category": "Identity Search Engine"
+  },
+  {
+    "id": "epsilon",
+    "name": "Epsilon Data",
+    "domain": "epsilon.com",
+    "email": "privacy@epsilon.com",
+    "country": "US",
+    "category": "Consumer Marketing Data"
+  },
+  {
+    "id": "neustar",
+    "name": "Neustar (TransUnion)",
+    "domain": "neustar.biz",
+    "email": "privacy@neustar.biz",
+    "country": "US",
+    "category": "Identity & Caller ID"
+  },
+  {
+    "id": "misterimprese",
+    "name": "MisterImprese",
+    "domain": "misterimprese.it",
+    "email": "info@misterimprese.it",
+    "country": "IT",
+    "category": "Directory Aziende e Persone IT"
+  },
+  {
+    "id": "kompass",
+    "name": "Kompass",
+    "domain": "kompass.com",
+    "email": "dpo@kompass.com",
+    "country": "EU",
+    "category": "B2B Directory"
+  },
+  {
+    "id": "europages",
+    "name": "Europages",
+    "domain": "europages.com",
+    "email": "dpo@europages.com",
+    "country": "EU",
+    "category": "Directory Europea"
+  },
+  {
+    "id": "cylex",
+    "name": "Cylex Italia",
+    "domain": "cylex-italia.it",
+    "email": "info@cylex-italia.it",
+    "country": "IT",
+    "category": "Directory Contatti IT"
+  },
+  {
+    "id": "gravatar",
+    "name": "Gravatar (Automattic)",
+    "domain": "gravatar.com",
+    "email": "privacypolicy@automattic.com",
+    "country": "Global",
+    "category": "Email Avatar & Profile Hash"
+  },
+  {
+    "id": "disqus",
+    "name": "Disqus",
+    "domain": "disqus.com",
+    "email": "privacy@disqus.com",
+    "country": "US",
+    "category": "Comment Tracker & Identity"
+  },
+  {
+    "id": "addthis",
+    "name": "AddThis (Oracle)",
+    "domain": "addthis.com",
+    "email": "privacy_dpo@oracle.com",
+    "country": "US",
+    "category": "Social Tracker"
+  },
+  {
+    "id": "eyeota",
+    "name": "Eyeota",
+    "domain": "eyeota.com",
+    "email": "privacy@eyeota.com",
+    "country": "Global",
+    "category": "Audience Data Marketplace"
+  },
+  {
+    "id": "lotame",
+    "name": "Lotame",
+    "domain": "lotame.com",
+    "email": "privacy@lotame.com",
+    "country": "US",
+    "category": "Data Management Platform"
+  },
+  {
+    "id": "quantcast",
+    "name": "Quantcast",
+    "domain": "quantcast.com",
+    "email": "privacy@quantcast.com",
+    "country": "EU",
+    "category": "Tracking & Behavioral Profiling"
+  },
+  {
+    "id": "innogames",
+    "name": "InnoGames Profiles",
+    "domain": "innogames.com",
+    "email": "privacy@innogames.com",
+    "country": "EU",
+    "category": "Gaming Network Tracking"
+  },
+  {
+    "id": "fullcontact",
+    "name": "FullContact",
+    "domain": "fullcontact.com",
+    "email": "privacy@fullcontact.com",
+    "country": "US",
+    "category": "Identity Resolution Engine"
+  },
+  {
+    "id": "towerdata",
+    "name": "TowerData (AtData)",
+    "domain": "atdata.com",
+    "email": "privacy@atdata.com",
+    "country": "US",
+    "category": "Email Intelligence & Validation"
+  },
+  {
+    "id": "infousa",
+    "name": "InfoUSA (Data Axle)",
+    "domain": "data-axle.com",
+    "email": "privacy@data-axle.com",
+    "country": "US",
+    "category": "Consumer & Business Records"
+  },
+  {
+    "id": "truepeoplesearch",
+    "name": "TruePeopleSearch",
+    "domain": "truepeoplesearch.com",
+    "email": "contact@truepeoplesearch.com",
+    "country": "US",
+    "category": "People Search",
+    "opt_out_url": "https://www.truepeoplesearch.com/removal"
+  },
+  {
+    "id": "usphonebook",
+    "name": "USPhonebook",
+    "domain": "usphonebook.com",
+    "email": "info@usphonebook.com",
+    "country": "US",
+    "category": "People Search",
+    "opt_out_url": "https://www.usphonebook.com/opt-out"
+  },
+  {
+    "id": "thatsthem",
+    "name": "ThatsThem",
+    "domain": "thatsthem.com",
+    "email": "support@thatsthem.com",
+    "country": "US",
+    "category": "People Search",
+    "opt_out_url": "https://thatsthem.com/optout"
+  },
+  {
+    "id": "instantcheckmate",
+    "name": "Instant Checkmate",
+    "domain": "instantcheckmate.com",
+    "email": "privacy@instantcheckmate.com",
+    "country": "US",
+    "category": "People Search",
+    "opt_out_url": "https://www.instantcheckmate.com/opt-out"
+  },
+  {
+    "id": "truthfinder",
+    "name": "TruthFinder",
+    "domain": "truthfinder.com",
+    "email": "privacy@truthfinder.com",
+    "country": "US",
+    "category": "People Search",
+    "opt_out_url": "https://www.truthfinder.com/opt-out"
+  },
+  {
+    "id": "mylife",
+    "name": "MyLife",
+    "domain": "mylife.com",
+    "email": "privacy@mylife.com",
+    "country": "US",
+    "category": "People Search",
+    "opt_out_url": "https://www.mylife.com/ccpa/index.pubview"
+  },
+  {
+    "id": "zabasearch",
+    "name": "ZabaSearch",
+    "domain": "zabasearch.com",
+    "email": "privacy@zabasearch.com",
+    "country": "US",
+    "category": "People Search",
+    "opt_out_url": "https://www.zabasearch.com/block_records"
+  },
+  {
+    "id": "publicrecordsnow",
+    "name": "PublicRecordsNow",
+    "domain": "publicrecordsnow.com",
+    "email": "privacy@publicrecordsnow.com",
+    "country": "US",
+    "category": "People Search"
+  },
+  {
+    "id": "familytreenow",
+    "name": "FamilyTreeNow",
+    "domain": "familytreenow.com",
+    "email": "privacy@familytreenow.com",
+    "country": "US",
+    "category": "People Search",
+    "opt_out_url": "https://www.familytreenow.com/optout"
+  },
+  {
+    "id": "addresses",
+    "name": "Addresses.com",
+    "domain": "addresses.com",
+    "email": "privacy@addresses.com",
+    "country": "US",
+    "category": "People Search",
+    "opt_out_url": "https://www.addresses.com/optout.php"
+  },
+  {
+    "id": "advancedbackgroundchecks",
+    "name": "AdvancedBackgroundChecks",
+    "domain": "advancedbackgroundchecks.com",
+    "email": "privacy@advancedbackgroundchecks.com",
+    "country": "US",
+    "category": "Background Check",
+    "opt_out_url": "https://www.advancedbackgroundchecks.com/removal"
+  },
+  {
+    "id": "publicrecords360",
+    "name": "PublicRecords360",
+    "domain": "publicrecords360.com",
+    "email": "privacy@publicrecords360.com",
+    "country": "US",
+    "category": "People Search"
+  },
+  {
+    "id": "searchpeoplefree",
+    "name": "SearchPeopleFree",
+    "domain": "searchpeoplefree.com",
+    "email": "privacy@searchpeoplefree.com",
+    "country": "US",
+    "category": "People Search",
+    "opt_out_url": "https://www.searchpeoplefree.com/optout"
+  },
+  {
+    "id": "risk_lexisnexis_com",
+    "name": "LexisNexis Risk Solutions",
+    "domain": "risk.lexisnexis.com",
+    "email": "privacy.information.mgr@lexisnexis.com",
+    "country": "GLOBAL",
+    "category": "Background Check",
+    "opt_out_url": "https://optout.lexisnexis.com"
+  },
+  {
+    "id": "corelogic",
+    "name": "CoreLogic",
+    "domain": "corelogic.com",
+    "email": "privacy@corelogic.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "nielsen",
+    "name": "Nielsen",
+    "domain": "nielsen.com",
+    "email": "privacy.department@nielsen.com",
+    "country": "GLOBAL",
+    "category": "Marketing",
+    "opt_out_url": "https://www.nielsen.com/us/en/legal/privacy-statement/"
+  },
+  {
+    "id": "tapad",
+    "name": "Tapad (Experian)",
+    "domain": "tapad.com",
+    "email": "privacy@tapad.com",
+    "country": "GLOBAL",
+    "category": "Marketing",
+    "opt_out_url": "https://www.tapad.com/privacy-policy"
+  },
+  {
+    "id": "checkr",
+    "name": "Checkr",
+    "domain": "checkr.com",
+    "email": "privacy@checkr.com",
+    "country": "US",
+    "category": "Background Check"
+  },
+  {
+    "id": "goodhire",
+    "name": "GoodHire",
+    "domain": "goodhire.com",
+    "email": "privacy@goodhire.com",
+    "country": "US",
+    "category": "Background Check"
+  },
+  {
+    "id": "sterling",
+    "name": "Sterling",
+    "domain": "sterlingcheck.com",
+    "email": "privacy@sterlingcheck.com",
+    "country": "GLOBAL",
+    "category": "Background Check"
+  },
+  {
+    "id": "hireright",
+    "name": "HireRight",
+    "domain": "hireright.com",
+    "email": "privacy@hireright.com",
+    "country": "GLOBAL",
+    "category": "Background Check"
+  },
+  {
+    "id": "nuwber",
+    "name": "Nuwber",
+    "domain": "nuwber.com",
+    "email": "support@nuwber.com",
+    "country": "US",
+    "category": "People Search",
+    "opt_out_url": "https://nuwber.com/removal/link"
+  },
+  {
+    "id": "peoplesmart",
+    "name": "PeopleSmart",
+    "domain": "peoplesmart.com",
+    "email": "privacy@peoplesmart.com",
+    "country": "US",
+    "category": "People Search"
+  },
+  {
+    "id": "ussearch",
+    "name": "USSearch",
+    "domain": "ussearch.com",
+    "email": "privacy@ussearch.com",
+    "country": "US",
+    "category": "People Search"
+  },
+  {
+    "id": "neighborwho",
+    "name": "NeighborWho",
+    "domain": "neighborwho.com",
+    "email": "privacy@neighborwho.com",
+    "country": "US",
+    "category": "People Search",
+    "opt_out_url": "https://neighborwho.com/remove"
+  },
+  {
+    "id": "centeda",
+    "name": "Centeda",
+    "domain": "centeda.com",
+    "email": "support@centeda.com",
+    "country": "US",
+    "category": "People Search",
+    "opt_out_url": "https://centeda.com/ng/control/privacy"
+  },
+  {
+    "id": "idtrue",
+    "name": "IDTrue",
+    "domain": "idtrue.com",
+    "email": "privacy@idtrue.com",
+    "country": "US",
+    "category": "People Search",
+    "opt_out_url": "https://www.idtrue.com/optout"
+  },
+  {
+    "id": "towerdata_com",
+    "name": "TowerData",
+    "domain": "towerdata.com",
+    "email": "privacy@towerdata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.towerdata.com/company/privacy_policy"
+  },
+  {
+    "id": "veromi",
+    "name": "Veromi",
+    "domain": "veromi.net",
+    "email": "privacy@veromi.net",
+    "country": "US",
+    "category": "People Search"
+  },
+  {
+    "id": "01advertising",
+    "name": "01Advertising Inc.",
+    "domain": "01advertising.com",
+    "email": "privacy@01advertising.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://app.termly.io/notify/d1321341-0e82-4d8c-afaf-c4940d46c171"
+  },
+  {
+    "id": "180-by-two",
+    "name": "180 By Two, LLC",
+    "domain": "180bytwo.com",
+    "email": "karl@180bytwo.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal.onetrust.com/webform/e32c5e49-85c5-4969-bfa8-8cde49952e1f/6034339d-69de-41fc-829f-7b8b51d9fabe"
+  },
+  {
+    "id": "33across",
+    "name": "33ACROSS Inc",
+    "domain": "33across.com",
+    "email": "privacy@33across.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.33across.com/wp-content/uploads/2020/04/33Across-CCPA-Notice-Collection-Policy_US.pdf"
+  },
+  {
+    "id": "4c-insights",
+    "name": "4C Insights Inc.",
+    "domain": "mediaocean.com",
+    "email": "ccpa@mediaocean.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.mediaocean.com/your-privacy-rights"
+  },
+  {
+    "id": "4eyesai",
+    "name": "4Eyes.Ai, Inc.",
+    "domain": "4-eyes.ai",
+    "email": "privacy@4-eyes.ai",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.4-eyes.ai/privacy-policy?cord_section=privacy_options_dns"
+  },
+  {
+    "id": "4legalleads",
+    "name": "4Legalleads",
+    "domain": "4legalleads.com",
+    "email": "tapster13@gmail.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.4legalleads.com/removal"
+  },
+  {
+    "id": "6sense-insights",
+    "name": "6SENSE INSIGHTS Inc",
+    "domain": "6sense.com",
+    "email": "datasubjectrequests@6sense.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://6sense.com/privacy-center/"
+  },
+  {
+    "id": "open-dealer-exchange",
+    "name": "Open Dealer Exchange, LLC",
+    "domain": "700credit.com",
+    "email": "mshannon@opendealerexchange.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "above-data",
+    "name": "Above Data, Inc.",
+    "domain": "abovedata.io",
+    "email": "ben@abovedata.io",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "accenture-llp",
+    "name": "Accenture LLP",
+    "domain": "accenture.com",
+    "email": "regulatory.licenses@accenture.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.accenture.com/us-en/support/form-do-not-sell-my-personal-information"
+  },
+  {
+    "id": "accurate-append",
+    "name": "Accurate Append Inc.",
+    "domain": "accurateappend.com",
+    "email": "support@accurateappend.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://clients.accurateappend.com/Public/OptOut"
+  },
+  {
+    "id": "ace-agents",
+    "name": "ACE Agents Inc.",
+    "domain": "degree.me",
+    "email": "admin@academixdirect.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "acronymix",
+    "name": "ACRONYMIX LLC",
+    "domain": "acronymix.com",
+    "email": "privacy@acronymix.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "activimpact",
+    "name": "Activimpact, LLC",
+    "domain": "activimpact.ai",
+    "email": "privacy@activimpact.ai",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.activimpact.ai/dsar?hsLang=en"
+  },
+  {
+    "id": "acuant",
+    "name": "Acuant, Inc.",
+    "domain": "idology.com",
+    "email": "compliance@gbgplc.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "acutraq-background-screening",
+    "name": "ACUTRAQ Background Screening, Inc.",
+    "domain": "acutraq.com",
+    "email": "admin@acutraq.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "adadapted",
+    "name": "Adadapted Inc.",
+    "domain": "adadapted.com",
+    "email": "billing@adadapted.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.adadapted.com/legal/do-not-sell"
+  },
+  {
+    "id": "address-clearing-house",
+    "name": "Address Clearing House",
+    "domain": "achcoop.com",
+    "email": "lisa@achcoop.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.achcoop.com/do-not-sell-my-personal-info"
+  },
+  {
+    "id": "adept-id",
+    "name": "Adept Id, Inc.",
+    "domain": "adept-id.com",
+    "email": "privacy@adept-id.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.adept-id.com/opt-out-preferences/"
+  },
+  {
+    "id": "adrea-rubin-marketing",
+    "name": "Adrea Rubin Marketing, Inc.",
+    "domain": "adrearubin.com",
+    "email": "jenniferv@adrearubin.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "adsquare-gmbh",
+    "name": "Adsquare GmbH",
+    "domain": "adsquare.com",
+    "email": "legal@adsquare.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://adsquare.com/privacy/us_privacy_supplement/#goto-contact-us"
+  },
+  {
+    "id": "advantage-credit",
+    "name": "Advantage Credit, Inc.",
+    "domain": "advcredit.com",
+    "email": "evon@advcredit.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "advantage-sales-marketing",
+    "name": "Advantage Sales & Marketing LLC",
+    "domain": "take5mg.com",
+    "email": "alex@take5mg.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "advisortarget",
+    "name": "Advisortarget, LLC",
+    "domain": "finsum.com",
+    "email": "privacy@broadridge.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.finsum.com/index.php/what-we-do/your-privacy-choices"
+  },
+  {
+    "id": "affinity-answers",
+    "name": "AFFINITY ANSWERS CORPORATION",
+    "domain": "affinityanswers.com",
+    "email": "dataprivacy@affinityanswers.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.affinityanswers.com/your-privacy-choices/"
+  },
+  {
+    "id": "affinity-solutions",
+    "name": "Affinity Solutions Inc.",
+    "domain": "affinity.solutions",
+    "email": "privacy@affinitysolutions.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://affinitysolutions-privacy.my.onetrust.com/webform/a564cfa1-53bf-4c10-bf95-cd907432d7e8/7e4e6bf3-6562-454e-8c73-6a7bd1f4b336"
+  },
+  {
+    "id": "agr-marketing-solutions",
+    "name": "AGR Marketing Solutions LLC",
+    "domain": "agrmarketingsolutions.com",
+    "email": "services@agrmarketingsolutions.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "aidentified",
+    "name": "Aidentified, Inc.",
+    "domain": "aidentified.com",
+    "email": "privacy@aidentified.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.aidentified.com/delete-my-data"
+  },
+  {
+    "id": "ais-portfolio-services",
+    "name": "AIS Portfolio Services LLC",
+    "domain": "aisinfo.com",
+    "email": "arsllc@aisinfo.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.aisinfo.com/privacy?hsLang=en#california-privacy-rights"
+  },
+  {
+    "id": "alc",
+    "name": "ALC LLC",
+    "domain": "belardiwong.com",
+    "email": "privacy.officer@belardiwong.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/400f54ed-fcbb-4749-ab5b-32f491c72390"
+  },
+  {
+    "id": "alikeaudience",
+    "name": "Alikeaudience, Inc.",
+    "domain": "alikeaudience.com",
+    "email": "legal@alikeaudience.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacy-optout.alikeaudience.com/"
+  },
+  {
+    "id": "all-global-resources",
+    "name": "All Global Resources, LLC",
+    "domain": "executiveenergy.com",
+    "email": "drieke@executiveenergy.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "all-good-media",
+    "name": "All Good Media LLC",
+    "domain": "attribits.com",
+    "email": "marwan@attribits.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.attribits.com/do-not-sell"
+  },
+  {
+    "id": "alliant-cooperative-data-solutions",
+    "name": "Alliant Cooperative Data Solutions LLC",
+    "domain": "alliantinsight.com",
+    "email": "compliance@alliantdata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://alliantinsight.com/data-services-and-website-privacy-policy/"
+  },
+  {
+    "id": "alphonso",
+    "name": "Alphonso Inc.",
+    "domain": "lgads.tv",
+    "email": "compliance@lgads.tv",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://alphonso.tv/privacy/ccpa/"
+  },
+  {
+    "id": "altair-data-resources",
+    "name": "Altair Data Resources, Inc.",
+    "domain": "altairdata.com",
+    "email": "privacy@altairci.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.altairdata.com/altair-consumer-info/"
+  },
+  {
+    "id": "altisource-holdings",
+    "name": "Altisource Holdings, LLC",
+    "domain": "altisource.com",
+    "email": "privacy@altisource.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.altisource.com/us-consumer-privacy-notice"
+  },
+  {
+    "id": "american-city-business-journals",
+    "name": "American City Business Journals, Inc.",
+    "domain": "acbj.com",
+    "email": "legal@bizjournals.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "amerilist",
+    "name": "Amerilist Inc",
+    "domain": "amerilist.com",
+    "email": "info@amerilist.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.amerilist.com/optout"
+  },
+  {
+    "id": "analyticsiq",
+    "name": "AnalyticsIQ, Inc.",
+    "domain": "analytics-iq.com",
+    "email": "gailm@analyticsiq.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal.onetrust.com/webform/f6a59500-f900-4652-b030-0cd51afe15a5/87ca07e4-e06c-4ad8-9aa6-ccbbaa8750c1"
+  },
+  {
+    "id": "andrews-wharton",
+    "name": "Andrews Wharton, Inc.",
+    "domain": "andrewswharton.com",
+    "email": "privacy@andrewswharton.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.andrewswharton.com/your-privacy-choices"
+  },
+  {
+    "id": "anexinet",
+    "name": "Anexinet Corp.",
+    "domain": "anexinet.com",
+    "email": "privacy@anexinet.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "anne-lewis-strategies",
+    "name": "Anne Lewis Strategies, LLC",
+    "domain": "missionwired.com",
+    "email": "info@missionwired.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://optout.networkadvertising.org/?c=1"
+  },
+  {
+    "id": "anteriad",
+    "name": "Anteriad",
+    "domain": "anteriad.com",
+    "email": "jhiggleton@anteriad.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal.onetrust.com/webform/e32c5e49-85c5-4969-bfa8-8cde49952e1f/6034339d-69de-41fc-829f-7b8b51d9fabe"
+  },
+  {
+    "id": "apollo-interactive",
+    "name": "APOLLO INTERACTIVE LLC",
+    "domain": "apollointeractive.com",
+    "email": "requests@apollointeractive.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.apollointeractive.com/data-rights.php"
+  },
+  {
+    "id": "appscience",
+    "name": "Appscience",
+    "domain": "appsci.io",
+    "email": "privacy@appsci.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://appsci.io/do-not-sell-my-info"
+  },
+  {
+    "id": "aristotle-international",
+    "name": "ARISTOTLE INTERNATIONAL Inc",
+    "domain": "aristotle.com",
+    "email": "info@aristotle.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.aristotle.com/privacy/do-not-sell-my-personal-info/"
+  },
+  {
+    "id": "arity-875",
+    "name": "Arity 875, LLC",
+    "domain": "arity.com",
+    "email": "privacy@arity.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://arity.com/yourprivacychoices/"
+  },
+  {
+    "id": "arrakis-technologies",
+    "name": "Arrakis Technologies Corp.",
+    "domain": "arrakis.ai",
+    "email": "privacy@arrakis.ai",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.arrakis.ai/optout"
+  },
+  {
+    "id": "american-spirit-data-solutions",
+    "name": "AMERICAN SPIRIT DATA SOLUTIONS LLC",
+    "domain": "aspire-north.com",
+    "email": "privacy@aspire-north.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.aspire-north.com/do-not-sell-my-personal-information--out-out-request-form.html"
+  },
+  {
+    "id": "asset-international",
+    "name": "Asset International, Inc.",
+    "domain": "issgovernance.com",
+    "email": "dataprotectionofficer@iss-stoxx.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.issgovernance.com/privacy-legal/ccpa/"
+  },
+  {
+    "id": "assurance-iq",
+    "name": "Assurance Iq, Inc.",
+    "domain": "assurance.com",
+    "email": "swenson@assurance.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://assurance.com/assurance-privacy-practices.html#CRPDYourConsumerRightsRightToOptOut"
+  },
+  {
+    "id": "astoria-company-marketing",
+    "name": "Astoria Company Marketing LLC",
+    "domain": "astoriacompany.com",
+    "email": "bizdev@astoriacompany.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "atlantic-fox-technologies",
+    "name": "Atlantic Fox Technologies, Inc.",
+    "domain": "atlanticfox.com",
+    "email": "privacy@atlanticfox.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "attom-data-solutions",
+    "name": "ATTOM Data Solutions LLC",
+    "domain": "attomdata.com",
+    "email": "erik.wind@attomdata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.attomdata.com/privacy/ccpa-request-form-7233695024/"
+  },
+  {
+    "id": "audience-acuity",
+    "name": "Audience Acuity LLC",
+    "domain": "audienceacuity.com",
+    "email": "privacy@audienceacuity.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.audienceacuity.com/opt-out-of-database"
+  },
+  {
+    "id": "audiencerate",
+    "name": "Audiencerate Ltd",
+    "domain": "audiencerate.com",
+    "email": "gl@audiencerate.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.audiencerate.com/optout"
+  },
+  {
+    "id": "predictive-pop",
+    "name": "PREDICTIVE POP Inc",
+    "domain": "audigent.com",
+    "email": "shane@audigent.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.audigent.com/?optout=1"
+  },
+  {
+    "id": "automotive-mastermind",
+    "name": "Automotive Mastermind",
+    "domain": "automotivemastermind.com",
+    "email": "info@automotivemastermind.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.automotivemastermind.com/do-not-sell-or-share-my-personal-information-request/"
+  },
+  {
+    "id": "autoweb",
+    "name": "Autoweb, Inc.",
+    "domain": "autoweb.com",
+    "email": "autolegal@autoweb.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal.onetrust.com/webform/27aa5d67-8136-4a08-ae4b-9860992e2375/f84362ef-6901-4a8c-9a52-e7b06dbb4e6b"
+  },
+  {
+    "id": "all-web-leads",
+    "name": "All Web Leads, Inc",
+    "domain": "allwebleads.com",
+    "email": "onlineops@awl.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://dnc.allwebleads.com/Unsubscribe"
+  },
+  {
+    "id": "33-mile-radius",
+    "name": "33 MILE RADIUS LLC",
+    "domain": "remodeling.com",
+    "email": "legal@evercommerce.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://remodeling.com/do-not-sell/"
+  },
+  {
+    "id": "azerion-us",
+    "name": "Azerion US Inc.",
+    "domain": "azerion.com",
+    "email": "dpo_hybridtheory@azerion.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.hybridtheory.com/do-not-sell/"
+  },
+  {
+    "id": "azira",
+    "name": "AZIRA LLC",
+    "domain": "azira.com",
+    "email": "sonal@azira.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://submit-irm.trustarc.com/services/validation/0a80503b-1d56-4d50-a898-4377a0227dab"
+  },
+  {
+    "id": "background-information-services",
+    "name": "Background Information Services, Inc.",
+    "domain": "bisi.com",
+    "email": "compliance@bisi.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "bb-direct",
+    "name": "BB Direct, Inc",
+    "domain": "bbdirect.com",
+    "email": "brianberg@bbdirect.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.bbdirect.com/privacy-compliance.html"
+  },
+  {
+    "id": "bdex",
+    "name": "Bdex, LLC",
+    "domain": "bdex.com",
+    "email": "privacy@bdex.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.bdex.com/privacy-policy/data-sharing-opt-out/"
+  },
+  {
+    "id": "bdo-usa-llp",
+    "name": "BDO USA, LLP",
+    "domain": "bdo.com",
+    "email": "privacy@bdo.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.bdo.com/do-not-sell-my-personal-information"
+  },
+  {
+    "id": "beeswax",
+    "name": "Beeswax",
+    "domain": "beeswax.com",
+    "email": "privacy@beeswax.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://optout.prod.bidr.io/optout"
+  },
+  {
+    "id": "best-pick-reports",
+    "name": "Best Pick Reports, LLC",
+    "domain": "bestpickreports.com",
+    "email": "support@bestpickreports.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.bestpickreports.com/do-not-sell"
+  },
+  {
+    "id": "publicnsa",
+    "name": "PUBLICNSA LLC",
+    "domain": "bigdbm.com",
+    "email": "privacy@bigdbm.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://optout.bigdbm.com/"
+  },
+  {
+    "id": "biointelli",
+    "name": "Biointelli Corporation",
+    "domain": "biointelli.com",
+    "email": "privacy@biointelli.net",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "birchwood-credit-services",
+    "name": "Birchwood Credit Services Inc",
+    "domain": "birchwoodcreditservices.com",
+    "email": "billing@birchwoodcreditservices.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "biscred",
+    "name": "Biscred",
+    "domain": "biscred.com",
+    "email": "rob@biscred.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.biscred.com/do-not-sell-my-information"
+  },
+  {
+    "id": "black-pearl-group-limited",
+    "name": "Black Pearl Group Limited",
+    "domain": "blackpearl.com",
+    "email": "privacy@blackpearl.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.blackpearl.com/privacy-opt-out"
+  },
+  {
+    "id": "bliss-point-media",
+    "name": "Bliss Point Media, Inc.",
+    "domain": "blisspointmedia.com",
+    "email": "privacy@blisspointmedia.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.blisspointmedia.com/privacy"
+  },
+  {
+    "id": "blis-usa",
+    "name": "Blis USA, Inc.",
+    "domain": "blis.com",
+    "email": "privacy@blis.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://blis.com/ccpa-opt-out/"
+  },
+  {
+    "id": "blue-action",
+    "name": "Blue Action",
+    "domain": "blueaction.io",
+    "email": "info@blueaction.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://my.datasubject.com/16CV6iU2K7qFU3Poy/33263"
+  },
+  {
+    "id": "blue-hill-marketing-solutions",
+    "name": "Blue Hill Marketing Solutions, Inc.",
+    "domain": "liftbasedata.com",
+    "email": "khuntoon@liftengine.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.liftbasedata.com/request-to-know/"
+  },
+  {
+    "id": "bombora",
+    "name": "Bombora, Inc",
+    "domain": "bombora.com",
+    "email": "legal@bombora.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://bombora.com/opt-out/"
+  },
+  {
+    "id": "a-direct-marketing",
+    "name": "A DIRECT MARKETING Inc",
+    "domain": "bookyourdata.com",
+    "email": "mark@bookyourdata.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "business-resource-center",
+    "name": "Business Resource Center LLC",
+    "domain": "gmail.com",
+    "email": "busiresourcecenter@gmail.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "bridge",
+    "name": "Bridge",
+    "domain": "thebridgecorp.com",
+    "email": "joshua.hirsch@thebridgecorp.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.thebridgecorp.com/opt-out/"
+  },
+  {
+    "id": "bridgevine",
+    "name": "Bridgevine Inc.",
+    "domain": "bridgevine.com",
+    "email": "dwayne.landry@bridgevine.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "brightcheck",
+    "name": "Brightcheck Inc.",
+    "domain": "brightcheck.com",
+    "email": "admin@brightcheck.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "brigthswipe",
+    "name": "Brigthswipe Inc",
+    "domain": "brightswipe.com",
+    "email": "admin@brightswipe.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "brooks-integrated-marketing",
+    "name": "Brooks Integrated Marketing, LLC",
+    "domain": "brooksim.com",
+    "email": "privacy@brooksim.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.brooksim.com/privacy-form"
+  },
+  {
+    "id": "btrs-holdings",
+    "name": "BTRS Holdings Inc",
+    "domain": "billtrust.com",
+    "email": "privacy@billtrust.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal.onetrust.com/webform/82a6a736-b3a7-4e87-a2fd-04a39b7d2b19/2f5dc7b8-7698-4623-82d2-b2b969ef901e"
+  },
+  {
+    "id": "buildertrend-solutions",
+    "name": "Buildertrend Solutions, Inc.",
+    "domain": "buildertrend.com",
+    "email": "privacy@buildertrend.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "businesscom",
+    "name": "Business.Com",
+    "domain": "business.com",
+    "email": "customercare@business.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.business.com/optout/"
+  },
+  {
+    "id": "buxton-company",
+    "name": "Buxton Company, LLC",
+    "domain": "buxtonco.com",
+    "email": "mthomas@buxtonco.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.buxtonco.com/privacy/opt-out"
+  },
+  {
+    "id": "buyerlink",
+    "name": "Buyerlink Inc.",
+    "domain": "buyerlink.com",
+    "email": "legal@buyerlink.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.buyerlink.com/do-not-sell-or-share-my-personal-information"
+  },
+  {
+    "id": "bv-insights",
+    "name": "BV Insights LLC",
+    "domain": "big-village.com",
+    "email": "legal@big-village.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://big-village.com/do-not-sell-or-share-my-personal-information/"
+  },
+  {
+    "id": "cadent",
+    "name": "Cadent, LLC",
+    "domain": "cadent.tv",
+    "email": "cmarcos@cadent.tv",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://cadent.tv/your-privacy-choices/"
+  },
+  {
+    "id": "captify-technologies",
+    "name": "Captify Technologies",
+    "domain": "captifytechnologies.com",
+    "email": "lorraine.pinter@captify.co.uk",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.captifytechnologies.com/data-subject-rights-request/"
+  },
+  {
+    "id": "carco-group",
+    "name": "CARCO Group, Inc.",
+    "domain": "cisive.com",
+    "email": "compliance@cisive.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "cardlytics",
+    "name": "CARDLYTICS Inc",
+    "domain": "bridg.com",
+    "email": "legalnotices@cardlytics.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://datagrail.cardlytics.com/"
+  },
+  {
+    "id": "careerbuilder",
+    "name": "Careerbuilder, LLC",
+    "domain": "careerbuilder.com",
+    "email": "privacy@careerbuilder.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "car-market-solutions",
+    "name": "Car Market Solutions LLC",
+    "domain": "carmarketsolutions.com",
+    "email": "ben@carmarketsolutions.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "carry-technologies",
+    "name": "Carry Technologies, Inc",
+    "domain": "hightouch.com",
+    "email": "legal@hightouch.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.hightouch.com/privacy-choices"
+  },
+  {
+    "id": "catalina-marketing",
+    "name": "Catalina Marketing Corporation",
+    "domain": "catalina.com",
+    "email": "privacyteam@catalina.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.catalina.com/#privacy"
+  },
+  {
+    "id": "catalist",
+    "name": "Catalist LLC",
+    "domain": "catalist.us",
+    "email": "ggruver@catalist.us",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://catalist.us/your-privacy-choices/"
+  },
+  {
+    "id": "catalyze-ai",
+    "name": "Catalyze Ai, Inc",
+    "domain": "catalyzeai.com",
+    "email": "privacy@catalyzeai.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.catalyzeai.com/opt-out"
+  },
+  {
+    "id": "cdk-global",
+    "name": "CDK Global, LLC",
+    "domain": "cdkglobal.com",
+    "email": "james.kinzer@cdk.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "censia",
+    "name": "Censia, Inc.",
+    "domain": "censia.com",
+    "email": "tgotowka@censia.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.censia.com/privacy-policy/#your-rights-and-choices"
+  },
+  {
+    "id": "checkpeople",
+    "name": "Checkpeople, LLC",
+    "domain": "checkpeople.com",
+    "email": "operations@checkpeople.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "choreograph",
+    "name": "CHOREOGRAPH LLC",
+    "domain": "choreograph.com",
+    "email": "adam.little@choreograph.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://amer-cpp.choreograph.com/manage-your-data/do-not-sell"
+  },
+  {
+    "id": "cic-mortgage-credit",
+    "name": "CIC Mortgage Credit, Inc",
+    "domain": "ciccredit.com",
+    "email": "compliance@ciccredit.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.optoutprescreen.com/"
+  },
+  {
+    "id": "runtime-collective",
+    "name": "Runtime Collective LLC",
+    "domain": "cision.com",
+    "email": "legaldept@cision.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.cision.com/contact-us/opt-out/"
+  },
+  {
+    "id": "civil-data-research",
+    "name": "Civil Data Research, LLC",
+    "domain": "searchpublicrecords.com",
+    "email": "privacyinfo@searchpublicrecords.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.searchpublicrecords.com/help-center/privacy-requests"
+  },
+  {
+    "id": "civis-analytics",
+    "name": "Civis Analytics, Inc",
+    "domain": "civisanalytics.com",
+    "email": "dataprotection@civisanalytics.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.civisanalytics.com/privacy-policy/#ccpa"
+  },
+  {
+    "id": "civitech",
+    "name": "Civitech",
+    "domain": "civitech.io",
+    "email": "jake.london@civitech.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.civitech.io/privacy-policy/#section5"
+  },
+  {
+    "id": "claritas",
+    "name": "CLARITAS LLC",
+    "domain": "claritas.com",
+    "email": "al.gadbut@claritas.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal.onetrust.com/webform/68582716-6ce4-4f6e-bf08-78371b5f3292/6c7dc52d-0e2b-481f-9256-0755179e3783"
+  },
+  {
+    "id": "clay-labs",
+    "name": "Clay Labs LLC",
+    "domain": "clay.com",
+    "email": "privacy@clay.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://docs.google.com/forms/d/e/1FAIpQLSeAsU1U-AJfhqzDx6-6eVcyQ_kBD1J9cw1y0huQiS-HCkRf0Q/viewform?usp=send_form"
+  },
+  {
+    "id": "clearcompany",
+    "name": "Clearcompany, LLC",
+    "domain": "clearcompany.com",
+    "email": "privacy@clearcompany.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://optout.networkadvertising.org/"
+  },
+  {
+    "id": "clearview-ai",
+    "name": "Clearview Ai, Inc.",
+    "domain": "clearview.ai",
+    "email": "legal@clearview.ai",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.clearview.ai/privacy-and-requests"
+  },
+  {
+    "id": "collateral-analytics",
+    "name": "Collateral Analytics, LLC",
+    "domain": "mortgagetech.ice.com",
+    "email": "compliancemortgagetech@ice.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "collective-data-solutions",
+    "name": "Collective Data Solutions, LLC",
+    "domain": "collectivedata.io",
+    "email": "privacy@collectivedata.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.collectivedata.io/opt-out-do-not-sell-request-process/"
+  },
+  {
+    "id": "command-precision",
+    "name": "Command Precision Inc.",
+    "domain": "persistent.id",
+    "email": "info@persistent.id",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.intentwave.com/opt-out"
+  },
+  {
+    "id": "commercial-real-estate-exchange",
+    "name": "COMMERCIAL REAL ESTATE EXCHANGE Inc",
+    "domain": "crexi.com",
+    "email": "privacy@crexi.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://crexi.bigidprivacy.cloud/consumer/#/o2TCsG9LJ7"
+  },
+  {
+    "id": "complementics",
+    "name": "Complementics",
+    "domain": "complementics.com",
+    "email": "hello@complementics.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.complementics.com/optout-donotsell"
+  },
+  {
+    "id": "complete-mailing-lists",
+    "name": "Complete Mailing Lists",
+    "domain": "completemailinglists.com",
+    "email": "ewoolf@completemailinglists.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.completemailinglists.com/node/3697"
+  },
+  {
+    "id": "complete-medical-lists",
+    "name": "COMPLETE MEDICAL LISTS Inc",
+    "domain": "completemedicallists.com",
+    "email": "tburnell@completemedicallists.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.completemedicallists.com/ccpa.php"
+  },
+  {
+    "id": "comscore",
+    "name": "Comscore, Inc.",
+    "domain": "comscore.com",
+    "email": "privacy@comscore.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.comscore.com/About/Privacy/Data-Subject-Rights"
+  },
+  {
+    "id": "connect-computer",
+    "name": "Connect Computer LLC",
+    "domain": "calltruth.com",
+    "email": "support@calltruth.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.calltruth.com/opt_out.php"
+  },
+  {
+    "id": "connected-investors",
+    "name": "Connected Investors LLC",
+    "domain": "connectedinvestors.com",
+    "email": "support@connectedinvestors.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://firstam.service-now.com/x_farf2_dp_request_ci_opt_out.do?sysparm_id=6d6e7e8edb3e3158665f182813961985"
+  },
+  {
+    "id": "connext-digital",
+    "name": "Connext Digital, LLC",
+    "domain": "connextdigital.com",
+    "email": "rob.fitzgerald@connextdigital.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.connextdigital.com/opt-out/"
+  },
+  {
+    "id": "consider",
+    "name": "Consider, Inc.",
+    "domain": "consider.com",
+    "email": "ralph@consider.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "consolidated-information-services-solutions",
+    "name": "Consolidated Information Services Solutions LLC",
+    "domain": "universalcis.com",
+    "email": "ccasey@universalcredit.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "consumer-canvas",
+    "name": "CONSUMER CANVAS LLC",
+    "domain": "consumercanvas.net",
+    "email": "privacy@consumercanvas.net",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "contemporary-information",
+    "name": "CONTEMPORARY INFORMATION CORP.",
+    "domain": "cicreports.com",
+    "email": "compliance@cicreports.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "contentgine",
+    "name": "Contentgine Inc.",
+    "domain": "contentgine.com",
+    "email": "paul@contentgine.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "converge-direct",
+    "name": "Converge Direct, LLC.",
+    "domain": "convergemarketing.com",
+    "email": "contracts@convergedirect.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.convergemarketing.com/infoform/?rpgn=&rpurl="
+  },
+  {
+    "id": "convex-labs",
+    "name": "CONVEX LABS LLC",
+    "domain": "convex.com",
+    "email": "support@convexlabs.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.convex.com/request-removal"
+  },
+  {
+    "id": "costar-group",
+    "name": "Costar Group",
+    "domain": "costar.com",
+    "email": "globalprivacyinbox@costar.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "crawlbee",
+    "name": "Crawlbee Corp",
+    "domain": "crawlbee.com",
+    "email": "ryan@crawlbee.io",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "credit-bureau-of-council-bluffs",
+    "name": "Credit Bureau Of Council Bluffs, Inc",
+    "domain": "creditinfosystems.com",
+    "email": "heather@creditinfosystems.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "crisil-irevna-us",
+    "name": "CRISIL Irevna US LLC",
+    "domain": "greenwich.com",
+    "email": "privacy1@crisil.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.crisil.com/content/crisilcom/en/home/crisil-privacy-notice/do-not-sell-my-personal-information.html"
+  },
+  {
+    "id": "cross-pixel-media",
+    "name": "Cross Pixel Media, Inc.",
+    "domain": "crosspixel.net",
+    "email": "apearlstein@crosspixel.net",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacy.crsspxl.com/optout"
+  },
+  {
+    "id": "crosswalk-technologies",
+    "name": "Crosswalk Technologies Inc",
+    "domain": "crosswalknyc.com",
+    "email": "privacy@crosswalknyc.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.crosswalknyc.com/optout"
+  },
+  {
+    "id": "crunchbase",
+    "name": "Crunchbase Inc",
+    "domain": "crunchbase.com",
+    "email": "privacy@crunchbase.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "ctam-leadshare",
+    "name": "CTAM Leadshare Corp.",
+    "domain": "ctam.com",
+    "email": "zell@ctam.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.smartmove.us/company/do-not-sell"
+  },
+  {
+    "id": "cuebiq-group",
+    "name": "Cuebiq Group, LLC",
+    "domain": "cuebiq.com",
+    "email": "privacy@cuebiq.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.cuebiq.com/privacypolicy/"
+  },
+  {
+    "id": "cybba",
+    "name": "Cybba Inc.",
+    "domain": "cybba.com",
+    "email": "privacy@cybba.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://cybba-requests.my.onetrust.com/webform/a4a1351e-d293-4305-bde4-b9cf8f5c0989/f89c576a-b5c6-498e-bad5-698f084ffd30"
+  },
+  {
+    "id": "cyndx-networks",
+    "name": "Cyndx Networks LLC",
+    "domain": "cyndx.com",
+    "email": "privacy@cyndx.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.cyndx.com/california-do-not-track/"
+  },
+  {
+    "id": "data-decisions-group",
+    "name": "Data Decisions Group, LLC",
+    "domain": "datadecisionsgroup.com",
+    "email": "privacy@datadecisionsgroup.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "datadelivers",
+    "name": "Datadelivers LLC",
+    "domain": "datadelivers.com",
+    "email": "supplier@datadelivers.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://datadelivers.com/unsubscribe/"
+  },
+  {
+    "id": "datadojo-cdp",
+    "name": "Datadojo CDP Inc.",
+    "domain": "datadojo.ai",
+    "email": "contact@datadojo.ai",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "data-facts",
+    "name": "Data Facts, Inc.",
+    "domain": "datafacts.com",
+    "email": "compliance@datafacts.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "datafy",
+    "name": "Datafy LLC",
+    "domain": "datafy.com",
+    "email": "support@datafy.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.datafy.com/opt-out"
+  },
+  {
+    "id": "dataline",
+    "name": "DATALINE Inc",
+    "domain": "datalinedata.com",
+    "email": "psobel@datalinedata.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "data-marketing-solutions",
+    "name": "Data Marketing Solutions, Inc.",
+    "domain": "businesswatchnetwork.com",
+    "email": "support@bizwatchnetwork.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "datamentors",
+    "name": "DATAMENTORS LLC",
+    "domain": "porchgroupmedia.com",
+    "email": "privacy@porchgroupmedia.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.porchgroupmedia.com/inbound/do-not-sell-my-personal-information/"
+  },
+  {
+    "id": "deluxe",
+    "name": "Deluxe Corporation",
+    "domain": "deluxe.com",
+    "email": "privacyprogramoffice@deluxe.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.deluxe.com/policy/donotsell/"
+  },
+  {
+    "id": "data-partners",
+    "name": "DATA PARTNERS Inc",
+    "domain": "datapartners.com",
+    "email": "info@datapartners.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://datapartners.com/donotsellmyinformation"
+  },
+  {
+    "id": "dataskip",
+    "name": "Dataskip",
+    "domain": "dataskip.io",
+    "email": "support@dataskip.io",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "datasys-group",
+    "name": "DATASYS GROUP Inc",
+    "domain": "datasys.com",
+    "email": "privacy@datasys.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "corelogic-credco-of-puerto-rico",
+    "name": "Corelogic Credco of Puerto Rico",
+    "domain": "teletrack.com",
+    "email": "licensing.erm@corelogic.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.optoutprescreen.com/"
+  },
+  {
+    "id": "datonics",
+    "name": "Datonics, LLC",
+    "domain": "datonics.com",
+    "email": "privacy@datonics.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.datonics.com/do-not-sell-my-info#page"
+  },
+  {
+    "id": "david-rickenbacher",
+    "name": "David Rickenbacher",
+    "domain": "datamasters.org",
+    "email": "sales@datamasters.org",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.datamasters.org/opt-out/"
+  },
+  {
+    "id": "dealerdirect",
+    "name": "DEALERDIRECT LLC",
+    "domain": "forddirect.com",
+    "email": "fdcomply@forddirect.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal.onetrust.com/webform/1d20b685-0942-4b4d-a0af-b799c97f5cf6/2e4928b6-d77a-4f76-9518-1bfb9721669d"
+  },
+  {
+    "id": "dealersocket",
+    "name": "Dealersocket, LLC",
+    "domain": "dealersocket.com",
+    "email": "privacy@solera.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://globaldsar.solera.com/webform/20bbc57b-6134-4535-8062-a1745b771851/1eafe8e0-f69b-4d39-af7c-6dbf764046fa"
+  },
+  {
+    "id": "decide-technologies",
+    "name": "Decide Technologies Inc.",
+    "domain": "decide.co",
+    "email": "privacy@decide.co",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "decisionlinks",
+    "name": "DECISIONLINKS LLC",
+    "domain": "decisionlinks.com",
+    "email": "support@decisionlinks.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.decisionlinks.com/opt-out"
+  },
+  {
+    "id": "deep-root-analytics",
+    "name": "Deep Root Analytics, LLC",
+    "domain": "deeprootanalytics.com",
+    "email": "info@deeprootanalytics.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacy.deeprootanalytics.com/"
+  },
+  {
+    "id": "deeptrace",
+    "name": "Deeptrace Inc.",
+    "domain": "coresignal.com",
+    "email": "privacy@coresignal.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "delivrai",
+    "name": "Delivr.Ai Inc",
+    "domain": "delivr.ai",
+    "email": "support@delivr.ai",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "deloitte-consulting-llp",
+    "name": "Deloitte Consulting LLP",
+    "domain": "deloitte.com",
+    "email": "usprivacyquestions@deloitte.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.deloitte.com/us/en/footerlinks1/do-not-sell-my-personal-information.html"
+  },
+  {
+    "id": "demandbase",
+    "name": "Demandbase",
+    "domain": "demandbase.com",
+    "email": "privacy@demandbase.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "demand-science-group",
+    "name": "Demand Science Group, LLC",
+    "domain": "demandscience.com",
+    "email": "dataprivacy@demandscience.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://demandscience.com/privacy-policy-ccpa/"
+  },
+  {
+    "id": "demyst-data",
+    "name": "Demyst Data, Ltd",
+    "domain": "demyst.com",
+    "email": "privacy@demystdata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.demystdata.com/data-subject-action-request"
+  },
+  {
+    "id": "diablo-media",
+    "name": "Diablo Media",
+    "domain": "diablomedia.com",
+    "email": "data@diablomedia.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://diablomedia.com/privacy-request/"
+  },
+  {
+    "id": "dice-career-solutions",
+    "name": "Dice Career Solutions, Inc.",
+    "domain": "dice.com",
+    "email": "support@dice.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.dice.com/about/ccpa/#cmpscreencustom"
+  },
+  {
+    "id": "digicenter",
+    "name": "Digicenter, LLC.",
+    "domain": "digicenter.com",
+    "email": "privacy@digicenter.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.collectivedata.io/opt-out-do-not-sell-request-process/"
+  },
+  {
+    "id": "digital-media-solutions",
+    "name": "Digital Media Solutions, LLC",
+    "domain": "digitalmediasolutions.com",
+    "email": "tax@dmsgroup.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://dmsunsub.io/"
+  },
+  {
+    "id": "digital-safety-products",
+    "name": "Digital Safety Products, LLC",
+    "domain": "spyfly.com",
+    "email": "privacyinfo@spyfly.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "digital-segment",
+    "name": "DIGITAL SEGMENT LLC",
+    "domain": "digitalsegment.com",
+    "email": "info@digitalsegment.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.digitalsegment.com/about/consumer-opt-out/"
+  },
+  {
+    "id": "digital-viking-media",
+    "name": "DIGITAL VIKING MEDIA Inc",
+    "domain": "digitalvikingmedia.com",
+    "email": "optout@digitalvikingmedia.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "diligent",
+    "name": "Diligent Corporation",
+    "domain": "diligent.com",
+    "email": "privacy@diligent.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://diligentlegal.results.highbond.com/survey_responses/9Wrc_yiuertX-uLJ4bJA/edit"
+  },
+  {
+    "id": "direct-marketing-solutions",
+    "name": "DIRECT MARKETING SOLUTIONS Inc",
+    "domain": "teamdms.com",
+    "email": "dataanalytics@teamdms.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.teamdms.com/opt-out"
+  },
+  {
+    "id": "disco-technology",
+    "name": "Disco Technology Inc.",
+    "domain": "disconetwork.com",
+    "email": "privacy@disconetwork.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://support.disconetwork.com/hc/en-us/articles/4418121857819-CCPA-on-Disco#h_01GZPTPA4SPX26NA7E7HP5KHYS"
+  },
+  {
+    "id": "distribution-processing-center",
+    "name": "Distribution Processing Center LLC",
+    "domain": "dpcoptout.com",
+    "email": "customerservice@distpc.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://dpcoptout.com/opt-out/"
+  },
+  {
+    "id": "dresdendirect",
+    "name": "Dresdendirect",
+    "domain": "dresdendirect.com",
+    "email": "phil@dresdendirect.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "driveniq",
+    "name": "Driveniq Corporation",
+    "domain": "driveniq.com",
+    "email": "support@driveniq.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "drobu-media",
+    "name": "Drobu Media LLC",
+    "domain": "drobu.com",
+    "email": "dblackman@drobu.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "dspolitical",
+    "name": "Dspolitical, LLC",
+    "domain": "dspolitical.com",
+    "email": "info@dspolitical.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.winwithoptimal.com/opt-out-of-advertising/"
+  },
+  {
+    "id": "dstillery",
+    "name": "Dstillery, Inc",
+    "domain": "dstillery.com",
+    "email": "privacy@dstillery.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.dstillery.com/"
+  },
+  {
+    "id": "dt-client-services",
+    "name": "DT Client Services, LLC",
+    "domain": "thedatatrust.com",
+    "email": "legal@thedatatrust.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://thedatatrust.com/do-not-sell-my-personal-information/"
+  },
+  {
+    "id": "dtn",
+    "name": "DTN LLC",
+    "domain": "dtn.com",
+    "email": "privacy@dtn.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.dtn.com/do-not-sell-my-information-form/"
+  },
+  {
+    "id": "dynata",
+    "name": "Dynata, LLC",
+    "domain": "dynata.com",
+    "email": "privacy@dynata.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "early-warning-services",
+    "name": "Early Warning Services, LLC",
+    "domain": "earlywarning.com",
+    "email": "darla.nutting@earlywarning.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "economic-modeling",
+    "name": "ECONOMIC MODELING LLC",
+    "domain": "lightcast.io",
+    "email": "legal@lightcast.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://optout.networkadvertising.org/"
+  },
+  {
+    "id": "edvisors-network",
+    "name": "Edvisors Network, Inc.",
+    "domain": "edvisors.com",
+    "email": "customerservices@edvisors.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.edvisors.com/third-party-opt-out/"
+  },
+  {
+    "id": "effyis",
+    "name": "Effyis, Inc.",
+    "domain": "socialgist.com",
+    "email": "info@socialgist.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "efunds",
+    "name": "Efunds Corporation",
+    "domain": "worldpay.com",
+    "email": "chexsystems.compliance@fisglobal.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "ekata",
+    "name": "Ekata, Inc.",
+    "domain": "ekata.com",
+    "email": "privacysupport@ekata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.mastercard.us/public/my-data/dgr-public/personal-data-request.html?locale=en-us&region=NAM#/ekata/request/personalinfo"
+  },
+  {
+    "id": "electronic-commerce-a-to-z",
+    "name": "Electronic Commerce A To Z",
+    "domain": "electroniccommerceatoz.com",
+    "email": "azuttah@ubiquitysystemsusa.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "electronic-voice-services",
+    "name": "ELECTRONIC VOICE SERVICES Inc",
+    "domain": "telephonelists.biz",
+    "email": "richard@evs7.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.evs7.com/personal-information-request"
+  },
+  {
+    "id": "el-torocom",
+    "name": "EL Toro.Com, LLC",
+    "domain": "eltoro.com",
+    "email": "privacy@eltoro.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.eltoro.com/do-not-sell-my-personal-information/"
+  },
+  {
+    "id": "email-marketing-services",
+    "name": "Email Marketing Services, Inc",
+    "domain": "listmatch.com",
+    "email": "dataprivacy@listmatch.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "emailmovers",
+    "name": "Emailmovers Ltd",
+    "domain": "emailmovers.com",
+    "email": "compliance@emailmovers.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "emergescom-incorporated",
+    "name": "EMERGES.COM INCORPORATED",
+    "domain": "emerges.com",
+    "email": "shawn@emerges.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.emerges.com/Government-Record-Opt-Out_ep_51-1.html"
+  },
+  {
+    "id": "endgame-labs",
+    "name": "Endgame Labs, Inc",
+    "domain": "endgame.io",
+    "email": "privacy@endgame.io",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "enformion",
+    "name": "Enformion LLC",
+    "domain": "enformion.com",
+    "email": "databroker@enformion.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.enformion.com/do-not-sell/"
+  },
+  {
+    "id": "enigma-technologies",
+    "name": "ENIGMA TECHNOLOGIES Inc",
+    "domain": "enigma.com",
+    "email": "privacy@enigma.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.enigma.com/company/do-not-share-or-sell-my-personal-information"
+  },
+  {
+    "id": "eprodirect",
+    "name": "Eprodirect",
+    "domain": "eprodirect.com",
+    "email": "optout@eprodirect.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.eprodirect.com/do-not-sell-my-personal-information/"
+  },
+  {
+    "id": "equimine",
+    "name": "Equimine",
+    "domain": "propstream.com",
+    "email": "privacyinquiry@propstream.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.propstream.com/privacy-request"
+  },
+  {
+    "id": "erepublic",
+    "name": "Erepublic LLC",
+    "domain": "erepublic.com",
+    "email": "privacy@erepublic.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://erepublic.secure.force.com/PrivacyRequest/"
+  },
+  {
+    "id": "evorra",
+    "name": "Evorra Ltd",
+    "domain": "evorra.com",
+    "email": "privacy@evorra.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "consumerbase",
+    "name": "Consumerbase LLC",
+    "domain": "exactdata.com",
+    "email": "lorgan@exactdata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.data-axle.com/do-not-sell-my-data/"
+  },
+  {
+    "id": "experian-data",
+    "name": "Experian Data Corp",
+    "domain": "experianverify.com",
+    "email": "optout@experian.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.clarityservices.com/support/opt-out-2/"
+  },
+  {
+    "id": "explorium",
+    "name": "EXPLORIUM Inc",
+    "domain": "explorium.ai",
+    "email": "oshrat@explorium.ai",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.explorium.ai/do-not-sell-my-personal-information/"
+  },
+  {
+    "id": "exponential-interactive",
+    "name": "Exponential Interactive, Inc.",
+    "domain": "vdx.tv",
+    "email": "privacy@vdx.tv",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.vdx.tv/policies/privacy#opting-out"
+  },
+  {
+    "id": "factori-technologies",
+    "name": "Factori Technologies LLC",
+    "domain": "factori.ai",
+    "email": "privacy@factori.ai",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.factori.ai/do-not-sell-my-information/"
+  },
+  {
+    "id": "fair-screen",
+    "name": "Fair Screen, Inc.",
+    "domain": "fairscreen.com",
+    "email": "compliance@fairscreen.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "famous-birthdays",
+    "name": "Famous Birthdays, LLC",
+    "domain": "famousbirthdays.com",
+    "email": "info@famousbirthdays.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "http://optout.networkadvertising.org/?c=1#!/"
+  },
+  {
+    "id": "fanspoko",
+    "name": "Fanspoko, LLC",
+    "domain": "fantasysportsknockout.com",
+    "email": "info@fanspoko.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "faraday",
+    "name": "Faraday, Inc.",
+    "domain": "faraday.io",
+    "email": "privacy@faraday.ai",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.faraday.io/privacy-options"
+  },
+  {
+    "id": "fideo-intelligence",
+    "name": "Fideo Intelligence, Inc.",
+    "domain": "fideo.ai",
+    "email": "legal@fideo.ai",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://app.fideo.ai/your-privacy-choices/"
+  },
+  {
+    "id": "fifty-technology",
+    "name": "Fifty Technology Ltd",
+    "domain": "fifty.io",
+    "email": "privacy@fifty.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.fifty.io/opt-out"
+  },
+  {
+    "id": "findem",
+    "name": "Findem, Inc.",
+    "domain": "findem.ai",
+    "email": "taylor@findem.ai",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.findem.ai/do-not-sell-or-share-my-personal-information"
+  },
+  {
+    "id": "first-american-data-tree",
+    "name": "First American Data Tree LLC",
+    "domain": "datatree.com",
+    "email": "tree-trace-legal.sna@firstam.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.firstam.com/privacy-policy/#california"
+  },
+  {
+    "id": "first-direct",
+    "name": "First Direct, Inc",
+    "domain": "firstdirectmarketing.com",
+    "email": "privacy@firstdirectmarketing.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://compliance.firstdirectmarketing.com/"
+  },
+  {
+    "id": "first-movers-advantage",
+    "name": "First Movers Advantage, LLC",
+    "domain": "fmadata.com",
+    "email": "privacy@fmadata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.fmadata.com/opt-out-requests/new"
+  },
+  {
+    "id": "first-orion",
+    "name": "First Orion, Inc.",
+    "domain": "firstorion.com",
+    "email": "ccparequests@firstorion.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacy.firstorion.com/"
+  },
+  {
+    "id": "stefan-certic",
+    "name": "Stefan Certic",
+    "domain": "myflashcloud.com",
+    "email": "legal@myflashcloud.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.flashintel.ai/dont-sell-my-information"
+  },
+  {
+    "id": "focus-usa",
+    "name": "Focus USA, Inc.",
+    "domain": "focus-usa.com",
+    "email": "privacy@focus-usa.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.focus-usa.com/optout-form/"
+  },
+  {
+    "id": "foo-monk",
+    "name": "FOO MONK LLC",
+    "domain": "instantly.ai",
+    "email": "privacy@instantly.ai",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://help.instantly.ai/en/collections/9392788-instantly-privacy-center"
+  },
+  {
+    "id": "foragerai",
+    "name": "Forager.Ai, LLC",
+    "domain": "forager.ai",
+    "email": "legal@forager.ai",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "forewarn",
+    "name": "FOREWARN LLC",
+    "domain": "forewarn.com",
+    "email": "legal.compliance@forewarn.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.forewarn.com/opt-out-policy/"
+  },
+  {
+    "id": "fourleaf",
+    "name": "Fourleaf LLC",
+    "domain": "fourleafdata.com",
+    "email": "privacy@thefourleaf.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.fourleafdata.com/privacy-policy"
+  },
+  {
+    "id": "foursquare-labs",
+    "name": "Foursquare Labs, Inc.",
+    "domain": "location.foursquare.com",
+    "email": "legal@foursquare.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://optout.aboutads.info/?c=2&lang=EN"
+  },
+  {
+    "id": "fourthwall-media",
+    "name": "Fourthwall Media, Inc.",
+    "domain": "fourthwall.tv",
+    "email": "misrael@fourthwall.tv",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.fourthwall.tv/donotsellorshare-fourthwall"
+  },
+  {
+    "id": "fraiser",
+    "name": "Fraiser, LLC",
+    "domain": "fraiser.org",
+    "email": "privacy@fraiser.org",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.fraiser.org/data-request-form"
+  },
+  {
+    "id": "freemium-data-services",
+    "name": "Freemium Data Services, LLC",
+    "domain": "reachdata.com",
+    "email": "compliance@reachdata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.reachdata.com/privacy"
+  },
+  {
+    "id": "freepeoplesearchcom",
+    "name": "Freepeoplesearch.Com, LLC",
+    "domain": "freepeoplesearch.com",
+    "email": "operations@freepeoplesearch.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "freewheel-media",
+    "name": "Freewheel Media Inc",
+    "domain": "freewheel.com",
+    "email": "legalnotices@freewheel.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.freewheel.com/do-not-sell-my-information"
+  },
+  {
+    "id": "freshaddress",
+    "name": "Freshaddress, LLC",
+    "domain": "freshaddress.com",
+    "email": "privacy@freshaddress.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://instantdata.atdata.com/optout"
+  },
+  {
+    "id": "fused-leads",
+    "name": "Fused Leads, LLC",
+    "domain": "fusedleads.com",
+    "email": "greg@fusedleads.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "fushia-media",
+    "name": "Fushia Media, LLC.",
+    "domain": "fushiamedia.com",
+    "email": "support@fushiamedia.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "fyllo",
+    "name": "Fyllo",
+    "domain": "hellofyllo.com",
+    "email": "legal@hellofyllo.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.semasio.com/legal/privacy-choices"
+  },
+  {
+    "id": "g2-bankruptcy-risk-solutions",
+    "name": "G2 Bankruptcy Risk Solutions, Inc.",
+    "domain": "g2risksolutions.com",
+    "email": "ramtin.taheri@g2risksolutions.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://g2risksolutions.com/consumer-center/"
+  },
+  {
+    "id": "cengage-learning",
+    "name": "CENGAGE LEARNING Inc",
+    "domain": "cengage.com",
+    "email": "privacy@cengage.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://info.cengage.com/LP=5633"
+  },
+  {
+    "id": "getemails",
+    "name": "GETEMAILS LLC",
+    "domain": "getemails.com",
+    "email": "support@getemails.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://app.retention.com/optout/"
+  },
+  {
+    "id": "giant-partners",
+    "name": "Giant Partners",
+    "domain": "giantpartners.com",
+    "email": "nikki@giantpartners.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://giantpartners.com/do-not-sell-my-personal-info-all-other-states/"
+  },
+  {
+    "id": "glad-i-know",
+    "name": "Glad I Know, Inc.",
+    "domain": "gladiknow.com",
+    "email": "support@gladiknow.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "good-boy-studios",
+    "name": "Good Boy Studios, Inc",
+    "domain": "parade.pet",
+    "email": "hello@goodboystudios.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.parade.pet/"
+  },
+  {
+    "id": "granite-lists",
+    "name": "Granite Lists, LLC",
+    "domain": "granitelists.com",
+    "email": "erin@granitelists.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "grassroots-analytics",
+    "name": "Grassroots Analytics",
+    "domain": "grassrootsanalytics.com",
+    "email": "operations@grassrootsanalytics.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.grassrootsanalytics.com/california-consumer-privacy-act-ccpa"
+  },
+  {
+    "id": "grata",
+    "name": "Grata Inc",
+    "domain": "grata.com",
+    "email": "hello@grata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.grata.com/legal/do-not-sell-my-information"
+  },
+  {
+    "id": "gravy-analytics",
+    "name": "Gravy Analytics, Inc.",
+    "domain": "gravyanalytics.com",
+    "email": "legal@gravyanalytics.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.unacast.com/opt-out"
+  },
+  {
+    "id": "grayhair-software",
+    "name": "Grayhair Software LLC",
+    "domain": "grayhairsoftware.com",
+    "email": "ddecencio@grayhairsoftware.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.grayhairsoftware.com/privacy-policy/#Do-Not-Sell-My-Personal-Information"
+  },
+  {
+    "id": "great-lakes-list",
+    "name": "GREAT LAKES LIST Inc",
+    "domain": "greatlakeslists.com",
+    "email": "ccpa@greatlakeslists.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.greatlakeslists.com/opt_out_request.php"
+  },
+  {
+    "id": "greenhouse-software",
+    "name": "Greenhouse Software, Inc.",
+    "domain": "greenhouse.com",
+    "email": "privacy@greenhouse.io",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "grin-technologies",
+    "name": "Grin Technologies Inc.",
+    "domain": "grin.co",
+    "email": "legal@grin.co",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.grin.co/data-privacy-form/"
+  },
+  {
+    "id": "growbots",
+    "name": "Growbots Inc",
+    "domain": "growbots.com",
+    "email": "privacy@growbots.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.growbots.com/do-not-sell-my-info/"
+  },
+  {
+    "id": "guidestar-direct",
+    "name": "GUIDESTAR DIRECT CORP",
+    "domain": "carneydirect.com",
+    "email": "info@carneydirect.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "gumgum",
+    "name": "Gumgum, Inc.",
+    "domain": "gumgum.com",
+    "email": "talbert@gumgum.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "gunderson-direct",
+    "name": "Gunderson Direct",
+    "domain": "gundersondirect.com",
+    "email": "jeff@gundir.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://gundir.com/opt-out/"
+  },
+  {
+    "id": "h1-insights",
+    "name": "H1 Insights Inc.",
+    "domain": "h1insights.com",
+    "email": "inquiries@h1insights.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.h1.co/legal/privacy-preferences"
+  },
+  {
+    "id": "hamza-online-services",
+    "name": "Hamza Online Services, LLC",
+    "domain": "hotmail.com",
+    "email": "zohandurani@hotmail.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "harmon-research-group",
+    "name": "Harmon Research Group, LLC",
+    "domain": "harmonresearch.com",
+    "email": "info@harmonresearch.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "hd-information",
+    "name": "HD INFORMATION LLC",
+    "domain": "hygenicsdata.com",
+    "email": "hdi_support@hygenicsdata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://myprivacy.equifax.com/opt-in-opt-out/personal-info"
+  },
+  {
+    "id": "healthcare",
+    "name": "Healthcare, Inc.",
+    "domain": "healthcare.com",
+    "email": "info@healthcare.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.healthcare.com/data-request/request-form/"
+  },
+  {
+    "id": "health-is-wealth-marketing",
+    "name": "Health Is Wealth Marketing LLC",
+    "domain": "pickmedicare.com",
+    "email": "info@pickmedicare.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "healthlink-dimensions",
+    "name": "Healthlink Dimensions, LLC",
+    "domain": "healthlinkdimensions.com",
+    "email": "nlenyszyn@healthlinkdimensions.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.healthlinkdimensions.com/consumerprivacyrights?hsLang=en"
+  },
+  {
+    "id": "healthwise-data",
+    "name": "Healthwise Data, LLC",
+    "domain": "healthwisedata.com",
+    "email": "info@healthwisedata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.healthwisedata.com/compliance-optout"
+  },
+  {
+    "id": "heartbeatai",
+    "name": "HEARTBEAT.AI Inc",
+    "domain": "swordfish.ai",
+    "email": "contact@swordfish.ai",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://heartbeat.ai/optout"
+  },
+  {
+    "id": "helix-campaigns",
+    "name": "Helix Campaigns LLC",
+    "domain": "helixcampaigns.com",
+    "email": "info@helixcampaigns.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://helixcampaigns.com/mydata/"
+  },
+  {
+    "id": "here-north-america",
+    "name": "HERE North America LLC",
+    "domain": "here.com",
+    "email": "privacy@here.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://legal.here.com/en-gb/privacy/do-not-sell"
+  },
+  {
+    "id": "hexasoft-development-sdn-bhd",
+    "name": "Hexasoft Development Sdn. Bhd.",
+    "domain": "ip2location.com",
+    "email": "support@ip2location.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.ip2location.com/do-not-sell"
+  },
+  {
+    "id": "general-information-solutions",
+    "name": "General Information Solutions LLC",
+    "domain": "backgroundchecks.com",
+    "email": "cklafehn@backgroundchecks.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "hireteammate",
+    "name": "HIRETEAMMATE Inc",
+    "domain": "hireez.com",
+    "email": "privacy@hireez.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://app.hireez.com/ownyourdata"
+  },
+  {
+    "id": "hivestack",
+    "name": "Hivestack, Inc.",
+    "domain": "hivestack.com",
+    "email": "privacy@hivestack.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.hivestack.com/opt-out-california-residents/"
+  },
+  {
+    "id": "home-contractors-review",
+    "name": "Home Contractors Review, LLC",
+    "domain": "fivestarrated.com",
+    "email": "adminsupport@fivestarrated.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.fivestarrated.com/do-not-sell"
+  },
+  {
+    "id": "accudata-integrated-marketing",
+    "name": "ACCUDATA INTEGRATED Marketing, Inc.",
+    "domain": "aslmarketing.com",
+    "email": "privacy.compliance@accudata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://optout.accudata.com"
+  },
+  {
+    "id": "homeowners-marketing-services",
+    "name": "Homeowners Marketing Services Inc",
+    "domain": "homeownersmarketingservices.com",
+    "email": "dnm@homeownersmarketingservices.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://homeownersmarketingservices.com/list-removal-request-new/"
+  },
+  {
+    "id": "hubspot",
+    "name": "Hubspot, Inc.",
+    "domain": "hubspot.com",
+    "email": "privacy@hubspot.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "hunt-club",
+    "name": "Hunt Club Inc",
+    "domain": "exploreatlas.io",
+    "email": "scott@huntclub.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "hybrid-theory",
+    "name": "Hybrid Theory",
+    "domain": "hybridtheory.com",
+    "email": "privacy@hybridtheory.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "i360",
+    "name": "I360, LLC",
+    "domain": "i-360.com",
+    "email": "privacy@i-360.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal.onetrust.com/webform/77dff651-9f08-40cd-99fe-a7c487b2504d/fd25e566-5931-4987-ae94-13ffd3306913"
+  },
+  {
+    "id": "id5-technology",
+    "name": "ID5 Technology",
+    "domain": "id5.io",
+    "email": "privacy@id5.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.id5.io/platform-privacy-policy/#what-are-your-choices"
+  },
+  {
+    "id": "idengine",
+    "name": "Idengine LLC",
+    "domain": "idengine.com",
+    "email": "chad@idengine.ai",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://idengine.com/dnsmpi/"
+  },
+  {
+    "id": "idm",
+    "name": "Idm, Inc.",
+    "domain": "idm.us.com",
+    "email": "ccpa@idm.us.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "ileadscom",
+    "name": "Ileads.Com, LLC",
+    "domain": "ileads.com",
+    "email": "inquiries@ileads.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://ileads.com/submitrequest/"
+  },
+  {
+    "id": "illumin",
+    "name": "Illumin Inc.",
+    "domain": "illumin.com",
+    "email": "itops@acuityads.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacy.acuityads.com/opt-out.html"
+  },
+  {
+    "id": "imprint-analytics",
+    "name": "Imprint Analytics LLC",
+    "domain": "imprintanalytics.io",
+    "email": "privacy@imprintanalytics.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://imprintanalytics.io/limit-the-use-of-my-sensitive-personal-information/"
+  },
+  {
+    "id": "inbound-insight",
+    "name": "Inbound Insight, LLC",
+    "domain": "inboundinsight.com",
+    "email": "info@inboundinsight.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "incheck",
+    "name": "Incheck Inc",
+    "domain": "inchecksolutions.com",
+    "email": "jenwaite@inchecksolutions.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "indiemark",
+    "name": "Indiemark LLC",
+    "domain": "emailindustries.com",
+    "email": "privacy@emailindustries.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.emailindustries.com/legal/#ccpa"
+  },
+  {
+    "id": "infinite-knot",
+    "name": "Infinite Knot Inc.",
+    "domain": "contacts411.com",
+    "email": "barrygold@contacts411.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.contacts411.com/opt-out"
+  },
+  {
+    "id": "infinite-media-concepts",
+    "name": "Infinite Media Concepts Inc",
+    "domain": "mlxp.com",
+    "email": "sheck@mlxp.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "inflection-risk-solutions",
+    "name": "Inflection Risk Solutions, LLC",
+    "domain": "inflection.com",
+    "email": "legal@inflection.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "infocore",
+    "name": "Infocore Inc.",
+    "domain": "infocore.com",
+    "email": "bjupp@infocore.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "infofreecom",
+    "name": "Infofree.Com LLC",
+    "domain": "infofree.com",
+    "email": "accounting@infofree.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacycompliance.biz/databaseusa-opt-out-process/"
+  },
+  {
+    "id": "infogroup",
+    "name": "Infogroup Inc.",
+    "domain": "infogroup.com",
+    "email": "privacyteam@infogroup.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.data-axle.com/do-not-sell-my-data/"
+  },
+  {
+    "id": "infomatics",
+    "name": "INFOMATICS LLC",
+    "domain": "privatereports.com",
+    "email": "llcinfomatics@gmail.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.privatereports.com/optOut/name/landing"
+  },
+  {
+    "id": "infopay",
+    "name": "INFOPAY Inc",
+    "domain": "infopay.com",
+    "email": "compliance@infopay.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "informationcom",
+    "name": "Information.Com, LLC",
+    "domain": "information.com",
+    "email": "operations@information.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "information-data-resources",
+    "name": "Information Data Resources, LLC",
+    "domain": "publicinfoservices.com",
+    "email": "privacyinfo@publicinfoservices.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.publicinfoservices.com/help-center/privacy-requests"
+  },
+  {
+    "id": "infutor-data-solutions",
+    "name": "Infutor Data Solutions LLC",
+    "domain": "ruf.com",
+    "email": "security@infutor.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacy.infutor.com/s/"
+  },
+  {
+    "id": "inmarket-media",
+    "name": "Inmarket Media LLC",
+    "domain": "inmarket.com",
+    "email": "privacy@inmarket.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.inmarket.com/opt-out/"
+  },
+  {
+    "id": "inmobi",
+    "name": "Inmobi",
+    "domain": "trufactor.io",
+    "email": "privacy@inmobi.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "innovative-database-solutions",
+    "name": "Innovative Database Solutions, Inc.",
+    "domain": "idatabasesolutions.com",
+    "email": "compliance@idatabasesolutions.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://idatabasesolutions.com/do-not-sell-my-personal-info/"
+  },
+  {
+    "id": "innovis-data-solutions",
+    "name": "Innovis Data Solutions, Inc.",
+    "domain": "innovis.com",
+    "email": "vtdata@innovis.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.innovis.com/personal/optOutOptIn"
+  },
+  {
+    "id": "insideview",
+    "name": "InsideView, Inc.",
+    "domain": "insideview.com",
+    "email": "privacy@insideview.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "intalytics",
+    "name": "Intalytics, Inc.",
+    "domain": "esiteanalytics.com",
+    "email": "privacy@kalibrate.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "integrated-medical-data",
+    "name": "Integrated Medical Data, LLC.",
+    "domain": "integratedmedicaldata.com",
+    "email": "bzink@integratedmedicaldata.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "intellicorp-records",
+    "name": "Intellicorp Records, Inc.",
+    "domain": "intellicorp.net",
+    "email": "compliance@intellicorp.net",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.intellicorp.net/marketing/Your-California-Privacy-Rights"
+  },
+  {
+    "id": "intentgine",
+    "name": "Intentgine Inc.",
+    "domain": "intentgine.com",
+    "email": "paul@intentgine.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.intentgine.com/ccpa-privacy"
+  },
+  {
+    "id": "intent-iq",
+    "name": "Intent IQ LLC",
+    "domain": "intentiq.com",
+    "email": "privacy@intentiq.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.intentiq.com/opt-out/"
+  },
+  {
+    "id": "intentmacro",
+    "name": "Intentmacro Inc.",
+    "domain": "intentmacro.com",
+    "email": "paul@intentmacro.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.intentmacro.com/ccpa-privacy"
+  },
+  {
+    "id": "intentsify",
+    "name": "INTENTSIFY LLC",
+    "domain": "intentsify.io",
+    "email": "privacy@intentsify.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://app.intentsify.io/opt-out"
+  },
+  {
+    "id": "interactive-data",
+    "name": "INTERACTIVE DATA LLC",
+    "domain": "ididata.com",
+    "email": "legal.compliance@ididata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://ididata.com/idis-privacy-statement#privacy"
+  },
+  {
+    "id": "ihs-markit",
+    "name": "IHS Markit",
+    "domain": "ipreo.com",
+    "email": "bruce.noll@ihsmarkit.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "ipsos",
+    "name": "Ipsos",
+    "domain": "ipsos.com",
+    "email": "dpo.usa@ipsos.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "iq-data-systems",
+    "name": "IQ Data Systems, Inc.",
+    "domain": "backgroundsonline.com",
+    "email": "nate.waymire@backgroundsonline.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "iqvia-digital",
+    "name": "IQVIA Digital Inc.",
+    "domain": "iqvia.com",
+    "email": "privacyofficer@iqvia.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.iqvia.com/about-us/privacy/ccpa/do-not-sell"
+  },
+  {
+    "id": "irys",
+    "name": "Irys",
+    "domain": "irys.us",
+    "email": "ariyo.noibi@irys.us",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.irys.us/do-not-sell-ccpa"
+  },
+  {
+    "id": "iso-services",
+    "name": "ISO Services Inc",
+    "domain": "jornaya.com",
+    "email": "bgeorge@verisk.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacy.infutor.com/s/"
+  },
+  {
+    "id": "ispottv",
+    "name": "Ispot.Tv",
+    "domain": "ispot.tv",
+    "email": "privacy@ispot.tv",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.ispot.tv/privacy/opt-out"
+  },
+  {
+    "id": "ivy-tech-re",
+    "name": "Ivy Tech Re, LLC",
+    "domain": "getivydata.com",
+    "email": "kyle@getivydata.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "iwave-information-systems",
+    "name": "Iwave Information Systems",
+    "domain": "kindsight.io",
+    "email": "privacy+california@iwave.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://go.kindsight.io/privacy-opt-out"
+  },
+  {
+    "id": "j2-martech",
+    "name": "J2 MARTECH CORP",
+    "domain": "ziffdavis.com",
+    "email": "privacy@ziffdavis.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://platform.fullcontact.com/your-privacy-choices"
+  },
+  {
+    "id": "jdm-list-services",
+    "name": "JDM List Services, LLC",
+    "domain": "jdmlistservices.com",
+    "email": "chrissy@jdmlistservices.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.jdmlistservices.com/do-not-sell-my-info"
+  },
+  {
+    "id": "jd-power-a-corporation-of-delaware",
+    "name": "JD Power, a Corporation of Delaware",
+    "domain": "jdpower.com",
+    "email": "jdpowerprivacy@jdpa.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.jdpower.com/privacy/dsar"
+  },
+  {
+    "id": "jigyasa-analytics",
+    "name": "Jigyasa Analytics LLC",
+    "domain": "jigyasaanalytics.com",
+    "email": "info@jigyasaanalytics.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "jmr-media-consulting",
+    "name": "JMR Media Consulting, Inc.",
+    "domain": "jmr-media.com",
+    "email": "privacy@jmr-media.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.jmr-media.com/do-not-sell-my-personal"
+  },
+  {
+    "id": "jun-group-productions",
+    "name": "Jun Group Productions, LLC",
+    "domain": "jungroup.com",
+    "email": "ccpa@jungroup.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://jungroup.com/ccpa/"
+  },
+  {
+    "id": "jverify",
+    "name": "Jverify, Inc.",
+    "domain": "jverify.com",
+    "email": "admin@jverify.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "kargo-global",
+    "name": "Kargo Global LLC",
+    "domain": "kargo.com",
+    "email": "privacyinfo@kargo.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.kargo.com/privacy#opt-out"
+  },
+  {
+    "id": "kbm-group",
+    "name": "KBM GROUP LLC",
+    "domain": "kbmg.com",
+    "email": "john.petrillo@wundermandata.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "kb-synergy",
+    "name": "KB Synergy Inc",
+    "domain": "kbsynergy.com",
+    "email": "info@kbsynergy.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "key-marketing-advantage",
+    "name": "Key Marketing Advantage, LLC",
+    "domain": "keymarketingadvantage.com",
+    "email": "privacy@keymarketingadvantage.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.keymarketingadvantage.com/do_not_use_my_personal_information"
+  },
+  {
+    "id": "killi",
+    "name": "Killi Ltd.",
+    "domain": "killi.io",
+    "email": "privacy@killi.io",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "klarifi",
+    "name": "Klarifi",
+    "domain": "klarifi.io",
+    "email": "soren@klarifi.io",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "kloudend",
+    "name": "KLOUDEND Inc",
+    "domain": "kloudend.com",
+    "email": "legal@kloudend.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://ipapi.co/donotsell/"
+  },
+  {
+    "id": "knower-tech-usa",
+    "name": "Knower Tech Usa, LLC",
+    "domain": "knowertech.com",
+    "email": "info@knowertech.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "knowwho",
+    "name": "Knowwho",
+    "domain": "knowwho.com",
+    "email": "bbrownson@knowwho.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "kochava",
+    "name": "KOCHAVA Inc.",
+    "domain": "kochava.com",
+    "email": "legal@kochava.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.kochava.com/opt-out-do-not-sell-request-process/"
+  },
+  {
+    "id": "koddi",
+    "name": "Koddi Inc.",
+    "domain": "koddi.com",
+    "email": "dataprivacy@koddi.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://koddi.com/do-not-sell-my-personal-information/"
+  },
+  {
+    "id": "kols-key-opinion-leaders",
+    "name": "Kols (Key Opinion Leaders)",
+    "domain": "keyopinionleaders.com",
+    "email": "kol-privacy@keyopinionleaders.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.keyopinionleaders.com/"
+  },
+  {
+    "id": "komodo-health",
+    "name": "Komodo Health, Inc.",
+    "domain": "komodohealth.com",
+    "email": "trust-and-safety@komodohealth.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://komodohealth-privacy.my.onetrust.com/webform/5c3cf8b1-3cf1-422d-84d5-618844b7316f/580adaab-6481-479f-9643-50464eea9863"
+  },
+  {
+    "id": "kontext",
+    "name": "Kontext",
+    "domain": "kontextdata.com",
+    "email": "info@kontextdata.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "kyber-health-data",
+    "name": "Kyber Health Data LLC",
+    "domain": "cowen.com",
+    "email": "kyberccpa@cowen.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.cowen.com/kyber-data-science-disclosures/do-not-sell-my-information-request-form/"
+  },
+  {
+    "id": "labels-lists",
+    "name": "LABELS & LISTS Inc",
+    "domain": "l2-data.com",
+    "email": "privacy@l2political.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://l2political.com/california-privacy-rights-for-california-residents-only/"
+  },
+  {
+    "id": "lead411",
+    "name": "Lead411 Corporation",
+    "domain": "lead411.com",
+    "email": "lead411_privacy@l4mail.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://lead411.com/your-privacy-choices/"
+  },
+  {
+    "id": "leadcrunch",
+    "name": "Leadcrunch",
+    "domain": "getrev.ai",
+    "email": "privacy@getrev.ai",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://getrev.ai/do-not-sell-or-share-my-personal-information/"
+  },
+  {
+    "id": "leadership-connect",
+    "name": "Leadership Connect",
+    "domain": "leadershipconnect.io",
+    "email": "privacy@leadershipconnect.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.leadershipconnect.io/opt-out"
+  },
+  {
+    "id": "leadloft",
+    "name": "Leadloft Inc.",
+    "domain": "leadloft.com",
+    "email": "privacy@leadloft.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "lead-me-media",
+    "name": "LEAD ME MEDIA LLC",
+    "domain": "leadmemedia.com",
+    "email": "texasregistry@leadmemedia.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://policy.leadmemedia.com/California/californiaform.html"
+  },
+  {
+    "id": "leadpost",
+    "name": "Leadpost, LLC",
+    "domain": "leadpost.com",
+    "email": "delete_mydata@leadpost.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "leadsmarketcom",
+    "name": "Leadsmarket.Com LLC",
+    "domain": "leadsmarket.com",
+    "email": "legal@leadsmarket.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.leadsmarket.com/privacy-policy."
+  },
+  {
+    "id": "leadspace",
+    "name": "Leadspace, Inc.",
+    "domain": "leadspace.com",
+    "email": "privacy_registration@leadspace.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.leadspace.com/do-not-sell-form/"
+  },
+  {
+    "id": "leidos-digital-solutions",
+    "name": "Leidos Digital Solutions, Inc.",
+    "domain": "leidos.com",
+    "email": "teresa.chesson@leidos.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://leidosiq.com/privacy-statement/"
+  },
+  {
+    "id": "anchor-computer",
+    "name": "Anchor Computer",
+    "domain": "anchorcomputer.com",
+    "email": "hkhan@anchorcomputer.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://ecom2.anchorcomputer.com/privacyrequest"
+  },
+  {
+    "id": "let-it-ride-sports",
+    "name": "LET IT RIDE SPORTS LLC",
+    "domain": "outlastdfs.com",
+    "email": "brenton@outlastdfs.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "lifesight",
+    "name": "Lifesight LLC",
+    "domain": "lifesight.io",
+    "email": "privacy@lifesight.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://lifesight.io/opt-out/"
+  },
+  {
+    "id": "lightbox-parent-lp",
+    "name": "Lightbox Parent, L.P.",
+    "domain": "lightboxre.com",
+    "email": "jfranks@lightboxre.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.lightboxre.com/"
+  },
+  {
+    "id": "lighthouse-list",
+    "name": "Lighthouse List",
+    "domain": "lighthouselist.com",
+    "email": "robert@lighthouselist.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://unsubscribe.stirista.com"
+  },
+  {
+    "id": "limeleads",
+    "name": "Limeleads",
+    "domain": "limeleads.com",
+    "email": "privacy@limeleads.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.limeleads.com/do-not-sell-my-data-request/"
+  },
+  {
+    "id": "lionshare-marketing",
+    "name": "Lionshare Marketing, Inc.",
+    "domain": "lionsharemarketing.com",
+    "email": "info@lionsharemarketing.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.lionsharemarketing.com/ccpa-opt-out/"
+  },
+  {
+    "id": "listings-information-systems-and-tabulation-services",
+    "name": "Listings, Information, Systems And Tabulation Services, Inc",
+    "domain": "lists-inc.com",
+    "email": "info@lists-inc.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "list-service-direct",
+    "name": "List Service Direct Inc.",
+    "domain": "listservicedirect.com",
+    "email": "dataremoval@listservicedirect.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://listservicedirect.com/opt-out/"
+  },
+  {
+    "id": "listsonline",
+    "name": "Listsonline",
+    "domain": "listsonline.com",
+    "email": "privacyofficer@listsonline.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "live-data-technologies",
+    "name": "Live Data Technologies Inc.",
+    "domain": "livedatatechnologies.com",
+    "email": "accounting@livedatatechnologies.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "lizdev",
+    "name": "Lizdev, Inc",
+    "domain": "lizdev.com",
+    "email": "privacyanddatacompliancereview@lizdev.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "localblox",
+    "name": "Localblox",
+    "domain": "localblox.com",
+    "email": "sabira@localblox.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://consumer.localblox.com/privacy_policy"
+  },
+  {
+    "id": "locatesmarter",
+    "name": "Locatesmarter, LLC",
+    "domain": "locatesmarter.com",
+    "email": "teri.ettelson@locatesmarter.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.locatesmarter.com/request-to-opt-out-do-not-sell-my-personal-information/"
+  },
+  {
+    "id": "logiq",
+    "name": "Logiq, Inc",
+    "domain": "logiq.com",
+    "email": "compliance@logiq.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "lookify",
+    "name": "Lookify",
+    "domain": "lookify.io",
+    "email": "support@lookify.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.lookify.io/opt-out"
+  },
+  {
+    "id": "loopme",
+    "name": "LOOPME LTD",
+    "domain": "loopme.com",
+    "email": "legal@loopme.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "lotadata",
+    "name": "Lotadata, Inc.",
+    "domain": "lotadata.com",
+    "email": "apu@lotadata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://lotadata.com/personal_information"
+  },
+  {
+    "id": "ls-mobile-apps-holdings",
+    "name": "L.S Mobile Apps Holdings Ltd",
+    "domain": "lsmapps.com",
+    "email": "privacy@lsmapps.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.lsmapps.com/onetrust-opt-out"
+  },
+  {
+    "id": "lucid-holdings",
+    "name": "Lucid Holdings, LLC",
+    "domain": "luc.id",
+    "email": "privacy@luc.id",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "lundquist-consulting",
+    "name": "Lundquist Consulting, Inc.",
+    "domain": "lciinc.com",
+    "email": "info@lciinc.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://g2risksolutions.com/consumer-center/"
+  },
+  {
+    "id": "m1-data-analytics",
+    "name": "M1 Data & Analytics, LLC",
+    "domain": "m1-data.com",
+    "email": "gashe@m1-data.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://m1-data.com/unsubscribe/"
+  },
+  {
+    "id": "machintel",
+    "name": "Machintel Inc.",
+    "domain": "machintel.com",
+    "email": "mark.choudhari@machintel.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "madhive",
+    "name": "Madhive, Inc.",
+    "domain": "madhive.com",
+    "email": "privacy@madhive.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.madhive.com/legal/us-state-privacy-notice#optOut"
+  },
+  {
+    "id": "madison-logic",
+    "name": "Madison Logic, Inc.",
+    "domain": "madisonlogic.com",
+    "email": "privacy@madisonlogic.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "magnite",
+    "name": "MAGNITE Inc",
+    "domain": "magnite.com",
+    "email": "privacy@magnite.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.magnite.com/legal/user-choice-portal/#optout"
+  },
+  {
+    "id": "malvern-media",
+    "name": "Malvern Media Inc.",
+    "domain": "malvernmedia.com",
+    "email": "info@malvernmedia.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal.privacypillar.com/dsar/form?formid=6e6ff4b8-2296-4589-ae7f-563fa743ec2d&orgid=369c8ff9-8ffb-4308-8362-f01691e77db8&propid=64c8904f-8bac-4dd9-8e6c-d052be1918a2&status=publish"
+  },
+  {
+    "id": "marinus-analytics",
+    "name": "Marinus Analytics",
+    "domain": "marinusanalytics.com",
+    "email": "privacy@marinusanalytics.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.marinusanalytics.com/do-not-sell-my-personal-information"
+  },
+  {
+    "id": "market-force",
+    "name": "Market Force Corporation",
+    "domain": "marketforcecorp.com",
+    "email": "privacy@marketforcecorp.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.marketforcecorp.com/opt-out/"
+  },
+  {
+    "id": "marketops",
+    "name": "Marketops LLC",
+    "domain": "marketops.com",
+    "email": "james@marketops.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://marketops.com/privacy-options/"
+  },
+  {
+    "id": "marriott-international",
+    "name": "Marriott International, Inc.",
+    "domain": "marriott.com",
+    "email": "privacy@marriott.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal.onetrust.com/webform/0894cd2c-85ba-4d0b-8ec1-e18f3735e0e0/b03c7f1f-4aca-4502-b5eb-d8d883be4c8c"
+  },
+  {
+    "id": "martin-data",
+    "name": "Martin Data LLC",
+    "domain": "usinfosearch.com",
+    "email": "aj@usinfosearch.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "matchandappendcom",
+    "name": "Matchandappend.Com LLC",
+    "domain": "matchandappend.com",
+    "email": "info@matchandappend.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.matchandappend.com/do-not-sell-my-data/"
+  },
+  {
+    "id": "matchbook-data",
+    "name": "MATCHBOOK DATA LLC",
+    "domain": "matchbookdata.com",
+    "email": "privacy@matchbookdata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.matchbookdata.com/opt-out-form/"
+  },
+  {
+    "id": "maxmind",
+    "name": "MAXMIND Inc",
+    "domain": "maxmind.com",
+    "email": "legal@maxmind.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.maxmind.com/en/opt-out"
+  },
+  {
+    "id": "mch",
+    "name": "MCH Inc",
+    "domain": "mchdata.com",
+    "email": "privacy@mchdata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.mchdata.com/about/ccpaemail"
+  },
+  {
+    "id": "media-direct",
+    "name": "Media Direct, Inc.",
+    "domain": "digdevdirect.com",
+    "email": "slubin@digdev.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "mediamath",
+    "name": "Mediamath, Inc.",
+    "domain": "mediamath.com",
+    "email": "privacy@mediamath.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.mediamath.com/privacy-policy/ccpa-optout/"
+  },
+  {
+    "id": "medianet-advertising-fz",
+    "name": "Media.Net Advertising Fz, LLC",
+    "domain": "media.net",
+    "email": "privacy@media.net",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.media.net/optout/"
+  },
+  {
+    "id": "media-resource-group",
+    "name": "Media Resource Group LLC",
+    "domain": "mrginc.com",
+    "email": "info@mrginc.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.mrginc.com/opt-out/"
+  },
+  {
+    "id": "mediasoft",
+    "name": "Mediasoft, LLC",
+    "domain": "mediasoftstudio.com",
+    "email": "info@mediasoftstudio.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.mediasoftstudio.com/unsubscribe.php"
+  },
+  {
+    "id": "media-source-solutions",
+    "name": "Media Source Solutions",
+    "domain": "mediasourcesolutions.com",
+    "email": "mvolpe@mediasourcesolutions.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://unsubscribe.stirista.com/"
+  },
+  {
+    "id": "mediawallah",
+    "name": "MEDIAWALLAH Inc",
+    "domain": "mediawallah.com",
+    "email": "privacy@mediawallah.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://mediawallah.com/donotsell/"
+  },
+  {
+    "id": "mediazod",
+    "name": "Mediazod LLC",
+    "domain": "leadzod.com",
+    "email": "privacy@leadzod.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "medpro-systems",
+    "name": "Medpro Systems",
+    "domain": "medprosystems.com",
+    "email": "privacy@medprosystems.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "melissa-data",
+    "name": "MELISSA DATA CORPORATION",
+    "domain": "melissa.com",
+    "email": "dennis.bedford@melissa.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://apps.melissa.com/user/consumerprivacy.aspx"
+  },
+  {
+    "id": "meltwater-news-us",
+    "name": "Meltwater News US Inc",
+    "domain": "meltwater.com",
+    "email": "legal@meltwater.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.meltwater.com/en/legal"
+  },
+  {
+    "id": "merkle",
+    "name": "Merkle Inc.",
+    "domain": "merkleinc.com",
+    "email": "david.yonchak@dentsu.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://merkleinc.com/en/privacy-policy/data-product-privacy-notice/control-your-personal-information.html"
+  },
+  {
+    "id": "message-digital",
+    "name": "MESSAGE DIGITAL LLC",
+    "domain": "messagedigital.com",
+    "email": "privacy@messagedigital.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.messagedigital.com/my-data"
+  },
+  {
+    "id": "mfi-credit-solutions",
+    "name": "MFI Credit Solutions",
+    "domain": "mfidata.com",
+    "email": "mfitzpatrick@mfidata.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "mh-sub-i",
+    "name": "MH Sub I, LLC",
+    "domain": "internetbrands.com",
+    "email": "privacy@internetbrands.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.internetbrands.com/privacy/privacy-contact-form.php"
+  },
+  {
+    "id": "mightyrep",
+    "name": "Mightyrep",
+    "domain": "mightyrep.com",
+    "email": "privacy@mightyrep.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "milestone-marketing-solutions",
+    "name": "Milestone Marketing Solutions",
+    "domain": "milestonemarketingsolutions.com",
+    "email": "bgleason@milestonemarketingsolutions.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.milestonemarketingsolutions.com/do-not-sell-my-information"
+  },
+  {
+    "id": "minerva-bi",
+    "name": "MINERVA BI Inc",
+    "domain": "realtors.minervadata.xyz",
+    "email": "privacy@minervadata.xyz",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://realtors.minervadata.xyz/opt-out"
+  },
+  {
+    "id": "mobile-technology",
+    "name": "Mobile Technology Corporation",
+    "domain": "onspotdata.com",
+    "email": "optout@onspotdata.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "mobilewalla",
+    "name": "Mobilewalla, Inc.",
+    "domain": "mobilewalla.com",
+    "email": "jclark@mobilewalla.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.mobilewalla.com/global-opt-out-request"
+  },
+  {
+    "id": "modernize",
+    "name": "Modernize, Inc.",
+    "domain": "modernize.com",
+    "email": "support@modernize.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacy-central.securiti.ai/#/dsr/1b319101-f00c-470f-a7f0-26aa81f057b8"
+  },
+  {
+    "id": "modfx-labs-private-limited",
+    "name": "Modfx Labs Private Limited",
+    "domain": "modfxlabs.com",
+    "email": "mandeep@modfxlabs.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "modigie",
+    "name": "Modigie Inc.",
+    "domain": "modigie.com",
+    "email": "privacy@modigie.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal.onetrust.com/webform/4a8e10dc-2293-42ea-ad06-886bc22167a6/20341940-11c2-4c43-9b64-194e952203fd"
+  },
+  {
+    "id": "mogean",
+    "name": "Mogean, Inc.",
+    "domain": "mogean.com",
+    "email": "info@mogean.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.mogean.com/opt-out"
+  },
+  {
+    "id": "monevo",
+    "name": "Monevo, Inc.",
+    "domain": "monevo.com",
+    "email": "usasupport@monevo.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.monevo.us/privacy-portal."
+  },
+  {
+    "id": "monocl",
+    "name": "Monocl",
+    "domain": "monocl.com",
+    "email": "privacy@definitivehc.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://preferences.definitivehc.com/privacy"
+  },
+  {
+    "id": "m-r-strategic-services",
+    "name": "M&R Strategic Services",
+    "domain": "mrss.com",
+    "email": "privacy@mrss.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://docs.google.com/forms/d/e/1FAIpQLSefr7ccty1bMZza8chUgLe0eWktBpQ_wGhzFpzeUupGlna3CA/viewform?usp=sf_link"
+  },
+  {
+    "id": "msim",
+    "name": "Msim, LLC",
+    "domain": "none",
+    "email": "dl-msim@move.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "multimedia-lists",
+    "name": "MULTIMEDIA Lists, Inc.",
+    "domain": "multimedialists.com",
+    "email": "daniel@multimedialists.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal.privacypillar.com/dsar/form?orgid=3b24c635-e1a9-4e8c-8e61-9f5fa0024f9c&propid=d3da91fd-2750-4534-9436-f29b3e513fe5&formid=4106bc86-1ddf-461b-b7f6-a5f53b0977b3&status=publish"
+  },
+  {
+    "id": "my-renter-checker",
+    "name": "MY RENTER CHECKER LLC",
+    "domain": "myrenterchecker.com",
+    "email": "myrenterchecker@gmail.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "narvar",
+    "name": "Narvar, Inc.",
+    "domain": "corp.narvar.com",
+    "email": "legal@narvar.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://narvar.my.onetrust.com/webform/04b3731f-2a9a-42ce-bd6b-106d4b4ec3bf/a7c944bf-3cec-4f00-9dc5-dea5bf2b6f4f"
+  },
+  {
+    "id": "national-consumer-telecom-utilities-exchange",
+    "name": "National Consumer Telecom & Utilities Exchange, Inc.",
+    "domain": "nctue.com",
+    "email": "abby@nacmsw.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "national-data-analytics",
+    "name": "National Data Analytics, LLC",
+    "domain": "publicdatacheck.com",
+    "email": "privacyinfo@publicdatacheck.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.publicdatacheck.com/help-center/privacy-requests"
+  },
+  {
+    "id": "national-opinion-institute",
+    "name": "National Opinion Institute, LLC",
+    "domain": "nationalopinioninstitute.com",
+    "email": "privacy@nationalopinioninstitute.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal.onetrust.com/webform/77dff651-9f08-40cd-99fe-a7c487b2504d/afcce4ab-fd72-4990-a972-58e24d9110a7"
+  },
+  {
+    "id": "national-student-clearinghouse",
+    "name": "NATIONAL STUDENT CLEARINGHOUSE",
+    "domain": "studentclearinghouse.org",
+    "email": "legal@studentclearinghouse.org",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "nativo",
+    "name": "Nativo, Inc.",
+    "domain": "nativo.com",
+    "email": "legal@nativo.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.nativo.com/interest-based-ads#your-rights"
+  },
+  {
+    "id": "ncr",
+    "name": "NCR Corporation",
+    "domain": "ncr.com",
+    "email": "office.privacy@ncr.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "nc-ventures",
+    "name": "NC VENTURES LLC",
+    "domain": "ncsolutions.com",
+    "email": "ncs.privacy@ncsolutions.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://ncsolutions.com/do-not-sell-my-information/"
+  },
+  {
+    "id": "near-north-america",
+    "name": "Near North America",
+    "domain": "near.co",
+    "email": "privacy@near.co",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "dun-bradstreet",
+    "name": "DUN & BRADSTREET Inc",
+    "domain": "dnb.com",
+    "email": "privacy@netwisedata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.netwisedata.com/consumer-privacy"
+  },
+  {
+    "id": "new-england-list-services",
+    "name": "New England List Services",
+    "domain": "nelists.com",
+    "email": "dave@nelists.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "new-gold-ventures",
+    "name": "New Gold Ventures LLC",
+    "domain": "thinkdatagroup.com",
+    "email": "barry.gold@thinkdatagroup.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.thinkdatagroup.com/opt-out-option"
+  },
+  {
+    "id": "new-strata",
+    "name": "New Strata Inc.",
+    "domain": "fivestrata.com",
+    "email": "info@fivestrata.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "nexsales-solutions",
+    "name": "Nexsales Solutions Inc.",
+    "domain": "nexsales.com",
+    "email": "privacy@nexsales.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "nextroll",
+    "name": "Nextroll, Inc.",
+    "domain": "nextroll.com",
+    "email": "legal@nextroll.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://app.adroll.com/optout"
+  },
+  {
+    "id": "next-wave-marketing-strategies",
+    "name": "Next Wave Marketing Strategies, Inc",
+    "domain": "nextwavemarketingstrategies.com",
+    "email": "troy@nextwavemarketingstrategies.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://agedleadstore.com/opt-out-share-sale-info-form/"
+  },
+  {
+    "id": "nexxa-group",
+    "name": "Nexxa Group, Inc.",
+    "domain": "nexxagroup.com",
+    "email": "consumerchoice@nexxagroup.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.nexxagroup.com/corporate-overview/consumer-opt-out/"
+  },
+  {
+    "id": "nexxen",
+    "name": "Nexxen Inc.",
+    "domain": "nexxen.com",
+    "email": "privacyrights@nexxen.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://yourdata.nexxen.com/"
+  },
+  {
+    "id": "nfocus-consulting",
+    "name": "Nfocus Consulting Inc",
+    "domain": "n-focus.com",
+    "email": "consumer@n-focus.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.n-focus.com/do-not-sell-or-share-my-personal-information/"
+  },
+  {
+    "id": "north-american-media",
+    "name": "North American Media LLC",
+    "domain": "namericanmedia.com",
+    "email": "angelan@namericanmedia.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "nova-list-company",
+    "name": "NOVA List Company, LLC",
+    "domain": "novalist.com",
+    "email": "ckoch@novalist.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.novalist.com/opt-out"
+  },
+  {
+    "id": "nymblr",
+    "name": "Nymblr, Inc.",
+    "domain": "nymblr.com",
+    "email": "support@nimbler.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.nymblr.com"
+  },
+  {
+    "id": "onaudience",
+    "name": "Onaudience Ltd",
+    "domain": "onaudience.com",
+    "email": "privacy@onaudience.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.onaudience.com/opt-out"
+  },
+  {
+    "id": "onemata",
+    "name": "Onemata Corporation",
+    "domain": "onemata.com",
+    "email": "privacy@onemata.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "one-model",
+    "name": "One Model, Inc.",
+    "domain": "onemodel.co",
+    "email": "privacy@onemodel.co",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "on-hold-america",
+    "name": "On Hold-America, Inc.",
+    "domain": "kycdata.com",
+    "email": "consumers@kycdata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.kycdata.com/consumer-privacy/"
+  },
+  {
+    "id": "online-advertising-network-sp-z-oo",
+    "name": "Online Advertising Network Sp. z o.o.",
+    "domain": "oan.pl",
+    "email": "privacy@oan.pl",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://oan.pl/opt-out/"
+  },
+  {
+    "id": "online-media-group",
+    "name": "ONLINE MEDIA GROUP Inc.",
+    "domain": "omginc.xyz",
+    "email": "privacy@omginc.xyz",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.omginc.xyz/privacy#ccpa"
+  },
+  {
+    "id": "opensend",
+    "name": "Opensend Inc",
+    "domain": "opensend.com",
+    "email": "privacy@opensend.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "openx-technologies",
+    "name": "Openx Technologies, Inc.",
+    "domain": "openx.com",
+    "email": "privacy@openx.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.openx.com/privacy-center/browser-opt-out-portal/"
+  },
+  {
+    "id": "optimal-fusion",
+    "name": "Optimal Fusion",
+    "domain": "optimalfusion.com",
+    "email": "dataprotectionofficer@optimalfusion.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.optimalfusion.com/adpreferences/"
+  },
+  {
+    "id": "orgio",
+    "name": "Orgio, Inc.",
+    "domain": "theorg.com",
+    "email": "privacy@theorg.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.theorg.com/do-not-sell"
+  },
+  {
+    "id": "origin8",
+    "name": "ORIGIN8 Inc",
+    "domain": "pushint.com",
+    "email": "compliance@pushint.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://pushint.com/manage-my-data"
+  },
+  {
+    "id": "outbrain",
+    "name": "Outbrain Inc.",
+    "domain": "outbrain.com",
+    "email": "legal@outbrain.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://my.outbrain.com/recommendations-settings/home"
+  },
+  {
+    "id": "outlogic",
+    "name": "OUTLOGIC LLC",
+    "domain": "outlogic.io",
+    "email": "privacy@outlogic.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://outlogic.io/opt-out-form/"
+  },
+  {
+    "id": "outward-media",
+    "name": "Outward Media, Inc.",
+    "domain": "outwardmedia.com",
+    "email": "accounting@outwardmedia.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.outwardmedia.com/do-not-sell"
+  },
+  {
+    "id": "lender-feed",
+    "name": "Lender Feed LLC",
+    "domain": "monitorbase.com",
+    "email": "privacy@monitorbase.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://my.monitorbase.com/privacypolicy"
+  },
+  {
+    "id": "owneriq",
+    "name": "Owneriq, Inc.",
+    "domain": "owneriq.com",
+    "email": "tpowell@owneriq.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.owneriq.com/privacy-notice.html#opt-out"
+  },
+  {
+    "id": "pacific-east-research",
+    "name": "Pacific East Research Inc",
+    "domain": "pacificeast.com",
+    "email": "privacy@pacificeast.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.pacificeast.com/contact-us-privacy/"
+  },
+  {
+    "id": "paedae",
+    "name": "Paedae, Inc.",
+    "domain": "infillion.com",
+    "email": "privacy@infillion.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal.onetrust.com/webform/f7e3f6db-ed65-4759-a3f5-3b5c8b7e9bff/draft/9949a1a8-aa69-4848-a93f-d093d877a981"
+  },
+  {
+    "id": "paramount-lists",
+    "name": "PARAMOUNT LISTS Inc",
+    "domain": "paramountdirectmarketing.com",
+    "email": "ccpa@paramountdirectmarketing.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.paramountdirectmarketing.com/opt_out_request.php"
+  },
+  {
+    "id": "parasol-media",
+    "name": "Parasol Media Inc.",
+    "domain": "parasolleads.com",
+    "email": "jschwartz@parasolleads.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "partners-credit-and-verification-solutions",
+    "name": "Partners Credit And Verification Solutions",
+    "domain": "partnerscredit.com",
+    "email": "support@partnerscredit.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "path2response",
+    "name": "Path2Response LLC",
+    "domain": "path2response.com",
+    "email": "legal@path2response.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal-cdn.onetrust.com/dsarwebform/2de26f06-de6f-45a7-8e1d-7d1148a3f301/draft/7a5dc7d1-cc7e-43a8-9f24-702807deb65b.html"
+  },
+  {
+    "id": "pathway-ventures",
+    "name": "PATHWAY VENTURES LLC",
+    "domain": "indivizio.com",
+    "email": "privacyofficer@indivizio.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.protectdataprivacy.com/"
+  },
+  {
+    "id": "pension-benefit-information",
+    "name": "Pension Benefit Information, LLC",
+    "domain": "pbinfo.com",
+    "email": "ccparequests@pbinfo.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "peopleconnect",
+    "name": "Peopleconnect, Inc.",
+    "domain": "peopleconnect.us",
+    "email": "brad.toney@peopleconnect.us",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://suppression.peopleconnect.us/privacy-center"
+  },
+  {
+    "id": "people-data-labs",
+    "name": "People Data Labs, Inc.",
+    "domain": "peopledatalabs.com",
+    "email": "privacy@peopledatalabs.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacy.peopledatalabs.com/policies?name=privacy-center#people-data-labs-privacy-center"
+  },
+  {
+    "id": "peoplefindersdaas",
+    "name": "Peoplefindersdaas",
+    "domain": "peoplefindersdaas.com",
+    "email": "privacy@peoplefindersdaas.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.peoplefindersdaas.com/personal-information"
+  },
+  {
+    "id": "peoplewhiz",
+    "name": "Peoplewhiz",
+    "domain": "peoplewhiz.com",
+    "email": "support@peoplewhiz.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "perf-labs",
+    "name": "Perf Labs, Inc.",
+    "domain": "interseller.io",
+    "email": "privacy@interseller.io",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "permutive",
+    "name": "Permutive, Inc",
+    "domain": "permutive.com",
+    "email": "privacy@permutive.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://permutive.com/privacy/"
+  },
+  {
+    "id": "pitchbook-data",
+    "name": "Pitchbook Data, Inc.",
+    "domain": "pitchbook.com",
+    "email": "legal@pitchbook.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "place-exchange",
+    "name": "Place Exchange, Inc.",
+    "domain": "placeexchange.com",
+    "email": "privacy@placeexchange.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.placeexchange.com/do-not-sell-my-information"
+  },
+  {
+    "id": "placeiq",
+    "name": "PLACEIQ Inc",
+    "domain": "precisely.com",
+    "email": "privacy@placeiq.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.precisely.com/your-privacy-choices"
+  },
+  {
+    "id": "plexuss",
+    "name": "Plexuss, Inc.",
+    "domain": "plexuss.com",
+    "email": "compliance@plexuss.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.plexuss.com/ccpa-opt-out"
+  },
+  {
+    "id": "plunge",
+    "name": "Plunge, LLC",
+    "domain": "plungedigital.com",
+    "email": "privacy@plungedigital.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://share.hsforms.com/1erM4FtHJQY2p2JaWuo4YbQ2dsq6"
+  },
+  {
+    "id": "plural-marketing-solutions",
+    "name": "Plural Marketing Solutions Inc.",
+    "domain": "plmrkg.com",
+    "email": "george@plmrkg.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "pmg-worldwide",
+    "name": "PMG Worldwide, LLC",
+    "domain": "pmg.com",
+    "email": "dataprivacy@pmg.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.pmg.com/do-not-sell-or-share-my-personal-information"
+  },
+  {
+    "id": "polity",
+    "name": "Polity",
+    "domain": "polityinc.com",
+    "email": "info@polityinc.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "pop-acta-media",
+    "name": "Pop Acta Media, LLC",
+    "domain": "popacta.com",
+    "email": "legal@popacta.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://optout.popacta.com/"
+  },
+  {
+    "id": "possiblenow-data-services",
+    "name": "Possiblenow Data Services",
+    "domain": "possiblenow.com",
+    "email": "data@possiblenow.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://site.possiblenow.com/do-not-sell-my-personal-information-new"
+  },
+  {
+    "id": "postie",
+    "name": "Postie",
+    "domain": "postie.com",
+    "email": "data@postie.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://optout.postie.com/"
+  },
+  {
+    "id": "postpilot",
+    "name": "POSTPILOT Inc",
+    "domain": "postpilot.com",
+    "email": "operations@postpilot.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.postpilot.com/opt-out-of-mailings-form"
+  },
+  {
+    "id": "predactiv",
+    "name": "Predactiv",
+    "domain": "predactiv.com",
+    "email": "privacy@predactiv.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "preferred-communications",
+    "name": "Preferred Communications",
+    "domain": "preferredcommunications.com",
+    "email": "opt-out-ccpa@preferredcommunications.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://preferredcommunications.com/consumer-opt-out/"
+  },
+  {
+    "id": "preqin",
+    "name": "Preqin Ltd",
+    "domain": "preqin.com",
+    "email": "dp@preqin.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "private-records",
+    "name": "PRIVATE RECORDS LLC",
+    "domain": "privaterecords.net",
+    "email": "support@privaterecords.net",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.privaterecords.net/optOut/name/landing"
+  },
+  {
+    "id": "privco-media",
+    "name": "Privco Media LLC",
+    "domain": "privco.com",
+    "email": "legal@privco.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.privco.com/privacy-policy#opt-out"
+  },
+  {
+    "id": "prodpro",
+    "name": "Prodpro Inc",
+    "domain": "prodpro.com",
+    "email": "contact@prodpro.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "project-applecart",
+    "name": "Project Applecart LLC",
+    "domain": "applecart.co",
+    "email": "matt@applecart.co",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.applecart.co/privacyrights"
+  },
+  {
+    "id": "propertyradar",
+    "name": "Propertyradar Inc",
+    "domain": "propertyradar.com",
+    "email": "privacy@propertyradar.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal.onetrust.com/webform/c3eb779a-028a-4045-aefc-ac78be730689/6f6c2bef-b565-4753-adc6-95585d7a9486"
+  },
+  {
+    "id": "property-reach-lp",
+    "name": "Property Reach LP",
+    "domain": "propertyreach.com",
+    "email": "compliance@propertyreach.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "prospector-database",
+    "name": "Prospector Database, LLC",
+    "domain": "prospectordatabase.com",
+    "email": "privacy@prospectordatabase.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.prospectordatabase.com/privacy-center"
+  },
+  {
+    "id": "proxima-platform",
+    "name": "Proxima Platform",
+    "domain": "proximaplatform.com",
+    "email": "aleex.de.aybar@outlook.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.proximaplatform.com/opt-out-portal"
+  },
+  {
+    "id": "pubmatic",
+    "name": "PUBMATIC Inc",
+    "domain": "pubmatic.com",
+    "email": "pubmaticprivacy@pubmatic.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://pubmatic.com/legal/opt-out/"
+  },
+  {
+    "id": "pulsepoint",
+    "name": "Pulsepoint, Inc.",
+    "domain": "pulsepoint.com",
+    "email": "privacy@pulsepoint.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.pulsepoint.com/legal/platform-privacy-policy#opt-out"
+  },
+  {
+    "id": "purecars-technologies",
+    "name": "Purecars Technologies, LLC",
+    "domain": "purecars.com",
+    "email": "privacy@purecars.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "pwc-product-sales",
+    "name": "Pwc Product Sales LLC",
+    "domain": "pwc.com",
+    "email": "us_privacy_office@pwc.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.pwc.com/us/en/site/notice-of-right-to-opt-out.html"
+  },
+  {
+    "id": "quad-graphics",
+    "name": "Quad/Graphics, Inc",
+    "domain": "quad.com",
+    "email": "databroker@quad.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal.onetrust.com/webform/9bbdeb31-9ca4-4397-b421-b165438ad177/1ca01042-21a7-4307-8b42-a6c7439c9685#xd_co_f=NjJjZjJhZTUtN2I3Yy00NmNkLTlhYTAtYmM2OWQ1N2Y3MGFk~"
+  },
+  {
+    "id": "quadrant-global-pte",
+    "name": "Quadrant Global Pte. Ltd.",
+    "domain": "quadrant.io",
+    "email": "privacy@quadrant.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.quadrant.io/opt-out"
+  },
+  {
+    "id": "qualfon",
+    "name": "Qualfon",
+    "domain": "qualfon.com",
+    "email": "consumerprivacy@qualfon.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.qualfon.com/privacy-policy/consumer-privacy-choices/"
+  },
+  {
+    "id": "qwoted",
+    "name": "Qwoted, Inc.",
+    "domain": "qwoted.com",
+    "email": "hello@qwoted.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "rampedup",
+    "name": "Rampedup, LLC.",
+    "domain": "rampedup.io",
+    "email": "privacy@rampedup.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://basic.rampedup.io/app/donotsell"
+  },
+  {
+    "id": "rategain-adara",
+    "name": "Rategain Adara, Inc.",
+    "domain": "adara.com",
+    "email": "dpo@adara.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://adara.com/opt-out/"
+  },
+  {
+    "id": "ray-cdp",
+    "name": "Ray Cdp, Inc.",
+    "domain": "rayinsights.com",
+    "email": "privacy@raycdp.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.rayinsights.com/ray-cdp-opt-out-and-delete-request/"
+  },
+  {
+    "id": "reach-marketing",
+    "name": "Reach Marketing LLC",
+    "domain": "reachmarketing.com",
+    "email": "info@reachmarketing.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "realeflow",
+    "name": "Realeflow LLC",
+    "domain": "realeflow.com",
+    "email": "privacy@realeflow.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://forms.gle/cgg2e2jLT7CL7efM7"
+  },
+  {
+    "id": "real-intent",
+    "name": "REAL INTENT Inc.",
+    "domain": "realintent.co",
+    "email": "contact@realintent.co",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.realintent.co/do-not-sell"
+  },
+  {
+    "id": "reality-media",
+    "name": "Reality Media, Inc.",
+    "domain": "realitydebtsolutions.com",
+    "email": "cform@realitymediainc.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.realitydebtsolutions.com/do-not-sell-my-personal-information/"
+  },
+  {
+    "id": "reallygreatrate",
+    "name": "Reallygreatrate, Inc.",
+    "domain": "rgrmarketing.com",
+    "email": "ccpa@rgrmarketing.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal-eu-cdn.onetrust.com/dsarwebform/942fbf02-bbfe-4a5d-808d-080b06c5651c/3fdf8f1d-7ab3-4a99-bb4e-24965500290d.html"
+  },
+  {
+    "id": "realsource",
+    "name": "Realsource, Inc",
+    "domain": "realsourcedata.com",
+    "email": "karolyn@realsourcedata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.realsourcedata.com/do-not-sell-my-personal-information"
+  },
+  {
+    "id": "recruitbot",
+    "name": "Recruitbot, Inc.",
+    "domain": "recruitbot.com",
+    "email": "accounting@therecruitbot.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://recruitbot.com/removal-request/"
+  },
+  {
+    "id": "recsolu",
+    "name": "Recsolu Inc.",
+    "domain": "yello.co",
+    "email": "privacy@yello.co",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://yello.co/do-not-sell-my-personal-information/"
+  },
+  {
+    "id": "redbird-direct",
+    "name": "Redbird Direct LLC",
+    "domain": "redbirddirect.com",
+    "email": "carrie@redbirddirect.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "redi-data",
+    "name": "Redi-Data Inc.",
+    "domain": "redidata.com",
+    "email": "jlauda@redidirect.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.redidata.com/join-our-mailing-list/"
+  },
+  {
+    "id": "redmob-limited-liability",
+    "name": "Redmob Limited Liability Company",
+    "domain": "redmob.io",
+    "email": "privacy@redmob.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.redmob.io/privacy-policy"
+  },
+  {
+    "id": "refinitiv-us",
+    "name": "Refinitiv US LLC",
+    "domain": "refinitiv.com",
+    "email": "jonny.bell@refinitiv.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "regulatory-datacorp",
+    "name": "Regulatory Datacorp, Inc.",
+    "domain": "bvdinfo.com",
+    "email": "privacy@bvdinfo.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://survey.alchemer.com/s3/8249180/Do-Not-Sell-Request"
+  },
+  {
+    "id": "reis",
+    "name": "Reis Inc.",
+    "domain": "cre.moodysanalytics.com",
+    "email": "info@reis.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "reklaim",
+    "name": "REKLAIM LTD",
+    "domain": "reklaimyours.com",
+    "email": "info@reklaimyours.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.reklaimyours.com/optout/"
+  },
+  {
+    "id": "relpro",
+    "name": "Relpro, Inc.",
+    "domain": "relpro.com",
+    "email": "info@relpro.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.relpro.com/opt-out"
+  },
+  {
+    "id": "rent-risk",
+    "name": "Rent Risk LLC",
+    "domain": "rentrisk.com",
+    "email": "rich@rentrisk.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "researchusa",
+    "name": "Researchusa LLC",
+    "domain": "researchusallc.com",
+    "email": "privacy@researchusallc.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacycompliance.biz/researchusallc-ccpa/"
+  },
+  {
+    "id": "resonate-networks",
+    "name": "RESONATE Networks, Inc.",
+    "domain": "resonate.com",
+    "email": "privacy@resonate.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://ds.reson8.com/opt-out.gif?lp=https://www.resonate.com/ccpa-do-not-sell/"
+  },
+  {
+    "id": "results-only-consulting-and-advertising",
+    "name": "Results Only Consulting And Advertising",
+    "domain": "rocadvertising.com",
+    "email": "dataprivacy_rocadvertising@simpleoptoutcompliance.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.rocadvertising.com/privacy-policy/#donotsell"
+  },
+  {
+    "id": "revcontent",
+    "name": "Revcontent",
+    "domain": "revcontent.com",
+    "email": "privacy@revcontent.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "reveal-mobile",
+    "name": "Reveal Mobile Inc",
+    "domain": "revealmobile.com",
+    "email": "info@revealmobile.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://revealmobile.com/ccpa/"
+  },
+  {
+    "id": "revelio-labs",
+    "name": "Revelio Labs, Inc.",
+    "domain": "reveliolabs.com",
+    "email": "info@reveliolabs.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.reveliolabs.com/do-not-sell-my-personal-information/"
+  },
+  {
+    "id": "revenuebase",
+    "name": "Revenuebase Inc",
+    "domain": "revenuebase.ai",
+    "email": "privacy@revenuebase.ai",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://revenuebase.ai/do-not-sell-my-info/"
+  },
+  {
+    "id": "revoptimal",
+    "name": "Revoptimal, LLC",
+    "domain": "revoptimal.com",
+    "email": "privacy@revoptimal.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "rhetorik-limited",
+    "name": "Rhetorik Limited",
+    "domain": "rhetorik.com",
+    "email": "privacy@rhetorik.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://rhetorik.com/do-not-sell-my-info/"
+  },
+  {
+    "id": "rich-media",
+    "name": "Rich Media LLC",
+    "domain": "richmediallc.com",
+    "email": "jeff@richmediallc.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://richmediallc.com/do-not-sell-my-personal-information/"
+  },
+  {
+    "id": "riv-data",
+    "name": "Riv Data Corp.",
+    "domain": "carpe.io",
+    "email": "alexis.leitner@carpe.io",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "dealerx-partners",
+    "name": "Dealerx Partners LLC",
+    "domain": "data.exchange",
+    "email": "compliance@dealerx.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.dealerx.com/privacy-options/"
+  },
+  {
+    "id": "rooftop-digital",
+    "name": "ROOFTOP DIGITAL LLC",
+    "domain": "rooftopdigital.com",
+    "email": "privacyofficer@therooftop.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.consumerdataprotect.com/?ref=rooftopdigital.com"
+  },
+  {
+    "id": "roqad",
+    "name": "Roq.Ad Inc.",
+    "domain": "roq.ad",
+    "email": "privacy@roq.ad",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.roq.ad/white-papers/#optout"
+  },
+  {
+    "id": "round-sky",
+    "name": "Round Sky, Inc.",
+    "domain": "roundsky.com",
+    "email": "legal@roundsky.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "rpm-data-solutions",
+    "name": "RPM Data Solutions LLC",
+    "domain": "exlservice.com",
+    "email": "privacy@exlservice.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "rp-on-site",
+    "name": "RP On-Site LLC",
+    "domain": "realpage.com",
+    "email": "rponsitecompliance@realpage.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "sabio",
+    "name": "Sabio, Inc.",
+    "domain": "sabio.inc",
+    "email": "privacy@sabio.inc",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.sabio.inc/do-not-sell-my-info"
+  },
+  {
+    "id": "safegraph",
+    "name": "Safegraph Inc.",
+    "domain": "safegraph.com",
+    "email": "privacy@safegraph.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "saferent-solutions",
+    "name": "Saferent Solutions, LLC",
+    "domain": "saferentsolutions.com",
+    "email": "licensing@saferentsolutions.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "saha-ventures",
+    "name": "Saha Ventures LLC",
+    "domain": "findtrueowner.com",
+    "email": "harmik@propertyownerlookup.io",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "saleseer",
+    "name": "Saleseer, Inc.",
+    "domain": "saleseer.com",
+    "email": "jean.vansoelen@saleseer.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "salesintel-research",
+    "name": "Salesintel Research Inc.",
+    "domain": "salesintel.io",
+    "email": "privacy@salesintel.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://salesintel.io/opt-out/"
+  },
+  {
+    "id": "salutary-data",
+    "name": "SALUTARY DATA LLC",
+    "domain": "salutarydata.com",
+    "email": "privacy@salutarydata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.salutarydata.com/privacy-opt-out-and-disclosure-form/"
+  },
+  {
+    "id": "free-stream-media",
+    "name": "Free Stream Media Corp.",
+    "domain": "samba.tv",
+    "email": "privacy@samba.tv",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.samba.tv/users/notice-of-right-to-opt-out"
+  },
+  {
+    "id": "sawyer-lists",
+    "name": "Sawyer Lists, LLC",
+    "domain": "sawyerlists.com",
+    "email": "admin@sawyerdatadirect.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "sbfe",
+    "name": "Sbfe, LLC",
+    "domain": "sbfe.org",
+    "email": "ccpa@sbfe.org",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "scalable-commerce",
+    "name": "Scalable Commerce, LLC",
+    "domain": "kidslivesafe.com",
+    "email": "privacyinfo@kidslivesafe.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.kidslivesafe.com/help-center/privacy-requests"
+  },
+  {
+    "id": "scanbuy",
+    "name": "Scanbuy, Inc",
+    "domain": "scanbuy.com",
+    "email": "chai.outmezguine@scanbuy.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://scanbuy.com/rights/data"
+  },
+  {
+    "id": "date-detective",
+    "name": "Date Detective Inc",
+    "domain": "date-detective.app",
+    "email": "privacy@date-detective.app",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://mobile.date-detective.app/investigate-opt-out?origin=website"
+  },
+  {
+    "id": "scileads",
+    "name": "Scileads Ltd",
+    "domain": "scileads.com",
+    "email": "privacy@scileads.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://scileads.com/opt-out/"
+  },
+  {
+    "id": "scraping-robot",
+    "name": "Scraping Robot, LLC",
+    "domain": "scrapingrobot.com",
+    "email": "support@scrapingrobot.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "scryer",
+    "name": "Scryer, Inc.",
+    "domain": "reonomy.com",
+    "email": "info@reonomy.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "seamless-contacts",
+    "name": "Seamless Contacts, Inc.",
+    "domain": "seamless.ai",
+    "email": "privacy@seamlessleads.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://login.seamless.ai/personalDataRequest"
+  },
+  {
+    "id": "search-america",
+    "name": "Search America LLC",
+    "domain": "locateplus.com",
+    "email": "dserrano@locateplus.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "searchbug",
+    "name": "Searchbug",
+    "domain": "searchbug.com",
+    "email": "support@searchbug.zohodesk.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.searchbug.com/ccpa.aspx#DoNoSell"
+  },
+  {
+    "id": "semasio",
+    "name": "Semasio, Inc.",
+    "domain": "semasio.com",
+    "email": "info@semasio.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.semasio.com/legal/privacy-choices"
+  },
+  {
+    "id": "semcastingcom",
+    "name": "Semcasting.com",
+    "domain": "semcasting.com",
+    "email": "privacychoice@semcasting.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.semcasting.com/privacy-choice?hsLang=en"
+  },
+  {
+    "id": "sentilink",
+    "name": "Sentilink Corp",
+    "domain": "sentilink.com",
+    "email": "privacy@sentilink.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "service-1st-information-solutions",
+    "name": "Service 1St Information Solutions LLC",
+    "domain": "srv1st.com",
+    "email": "info@srv1st.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "sg360",
+    "name": "SG360",
+    "domain": "sg360.com",
+    "email": "dataprivacy@sg360.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://sg360.com/do-not-sell-my-info/"
+  },
+  {
+    "id": "share-local-media",
+    "name": "Share Local Media, Inc",
+    "domain": "sharelocalmedia.com",
+    "email": "legal@sharelocalmedia.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://opt-out.sharelocalmedia.com/"
+  },
+  {
+    "id": "sharethrough",
+    "name": "Sharethrough Inc.",
+    "domain": "sharethrough.com",
+    "email": "dataprotection@sharethrough.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacy-center.sharethrough.com/en/do-not-sell-my-personal-information/"
+  },
+  {
+    "id": "sheerid",
+    "name": "SHEERID Inc",
+    "domain": "sheerid.com",
+    "email": "privacy@sheerid.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.sheerid.com/privacy-notice-for-audience-development-products-services/?_cord_id=6ddcc513-32c1-4799-832f-5c1d99acad88"
+  },
+  {
+    "id": "similarweb",
+    "name": "Similarweb Ltd.",
+    "domain": "similarweb.com",
+    "email": "legal@similarweb.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "simio-cloud",
+    "name": "SIMIO CLOUD LLC",
+    "domain": "simiocloud.com",
+    "email": "privacy@simiocloud.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://simiocloud.com/optout"
+  },
+  {
+    "id": "site-impact",
+    "name": "Site Impact",
+    "domain": "siteimpact.com",
+    "email": "dataprivacy@siteimpact.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.siteimpact.com/cali_compliance.php"
+  },
+  {
+    "id": "skipmasher",
+    "name": "Skipmasher, Inc.",
+    "domain": "skipsmasher.com",
+    "email": "skipsmasher.com@gmail.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.skipsmasher.com/Consumers/"
+  },
+  {
+    "id": "skyhook-holding",
+    "name": "Skyhook Holding, Inc.",
+    "domain": "skyhook.com",
+    "email": "privacy@skyhook.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.skyhook.com/opt-out-of-skyhook-products."
+  },
+  {
+    "id": "slashdot-media",
+    "name": "Slashdot Media, LLC",
+    "domain": "slashdotmedia.com",
+    "email": "privacy@slashdotmedia.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.slashdotmedia.com/opt-out-choices/"
+  },
+  {
+    "id": "sma-communications",
+    "name": "SMA Communications, LLC.",
+    "domain": "smacomm.com",
+    "email": "steven@smacomm.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://smacomm.com/do-not-sell/"
+  },
+  {
+    "id": "snovio",
+    "name": "SNOVIO Inc",
+    "domain": "snov.io",
+    "email": "help@snov.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.snov.io/do-not-sell-my-personal-information"
+  },
+  {
+    "id": "social-catfish",
+    "name": "SOCIAL CATFISH LLC",
+    "domain": "socialcatfish.com",
+    "email": "welcome@socialcatfish.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.socialcatfish.com/opt-out/?id=request_optout"
+  },
+  {
+    "id": "exact-opco",
+    "name": "EXACT OPCO LLC",
+    "domain": "solarpower-experts.com",
+    "email": "privacy@exactcustomer.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.exactcustomer.com/DoNotSell.aspx"
+  },
+  {
+    "id": "sourceit-technologies",
+    "name": "Sourceit Technologies, Inc",
+    "domain": "sourceitmarketing.com",
+    "email": "dataprivacy@sourceitmarketing.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "source-path-digital",
+    "name": "Source Path Digital",
+    "domain": "sourcepathdigital.com",
+    "email": "sales@sourcepathdigital.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "sourcescrub",
+    "name": "Sourcescrub LLC",
+    "domain": "sourcescrub.com",
+    "email": "dataprivacy@sourcescrub.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.sourcescrub.com/legal/do-not-sell-my-personal-information"
+  },
+  {
+    "id": "sovrn",
+    "name": "Sovrn, Inc.",
+    "domain": "sovrn.com",
+    "email": "privacy@sovrn.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacy.sovrn.com/opt-out"
+  },
+  {
+    "id": "specialists-marketing-services",
+    "name": "Specialists Marketing Services, Inc.",
+    "domain": "sms-inc.com",
+    "email": "dataprivacyteam@sms-inc.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://sms-inc.com/do-not-sell-or-share-my-personal-information/"
+  },
+  {
+    "id": "spectrum-mailing-lists",
+    "name": "Spectrum Mailing Lists",
+    "domain": "spectrumlists.com",
+    "email": "privacy@spectrumlists.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://spectrummailinglists.com/privacy-statement/"
+  },
+  {
+    "id": "speedeon-data",
+    "name": "SPEEDEON DATA LLC",
+    "domain": "speedeondata.com",
+    "email": "nbarry@speedeondata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://optout.speedeondata.com/"
+  },
+  {
+    "id": "s-p-global",
+    "name": "S&P Global Inc.",
+    "domain": "spglobal.com",
+    "email": "privacy@spglobal.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.spglobal.com/en/privacy/california-consumer-privacy-act"
+  },
+  {
+    "id": "spycloud",
+    "name": "Spycloud, Inc.",
+    "domain": "spycloud.com",
+    "email": "privacy@spycloud.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.spycloud.com/contact-us/"
+  },
+  {
+    "id": "spy-dialer",
+    "name": "Spy Dialer, Inc.",
+    "domain": "spydialer.com",
+    "email": "info@spydialer.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.spydialer.com/Consumers/"
+  },
+  {
+    "id": "stackadapt",
+    "name": "STACKADAPT Inc",
+    "domain": "stackadapt.com",
+    "email": "legal@stackadapt.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.stackadapt.com/legal-document-centre/opt-out-of-sale-targeted-advertising"
+  },
+  {
+    "id": "staircase",
+    "name": "Staircase, Inc.",
+    "domain": "staircase.co",
+    "email": "optout@staircase.co",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "startio",
+    "name": "Start.Io Inc.",
+    "domain": "start.io",
+    "email": "privay@start.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.start.io/do-not-sell-or-sharemy-personal-information/"
+  },
+  {
+    "id": "statara-solutions",
+    "name": "Statara Solutions LLC",
+    "domain": "statara.com",
+    "email": "privacy@statara.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://statara.com/opt-out"
+  },
+  {
+    "id": "statsocial",
+    "name": "Statsocial, Inc.",
+    "domain": "statsocial.com",
+    "email": "privacy@statsocial.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.statsocial.com/optout"
+  },
+  {
+    "id": "step2success-marketing",
+    "name": "STEP2SUCCESS Marketing",
+    "domain": "step2successmarketing.com",
+    "email": "mary@step2successmarketing.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "steppingblocks",
+    "name": "STEPPINGBLOCKS Inc",
+    "domain": "steppingblocks.com",
+    "email": "privacy@steppingblocks.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.steppingblocks.com/personal-information-inquiry"
+  },
+  {
+    "id": "sterling-data-company",
+    "name": "STERLING DATA COMPANY LLC",
+    "domain": "sterling.ai",
+    "email": "abe.usher@sterlingd.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://sterling.ai/do-not-sell/"
+  },
+  {
+    "id": "stirista",
+    "name": "Stirista, LLC",
+    "domain": "stirista.com",
+    "email": "info@stirista.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://unsubscribe.stirista.com/"
+  },
+  {
+    "id": "strata",
+    "name": "Strata Company",
+    "domain": "gostrata.com",
+    "email": "dataprivacy@gostrata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.gostrata.com/opt-out-preferences"
+  },
+  {
+    "id": "strategic-data-intelligence",
+    "name": "Strategic Data Intelligence",
+    "domain": "strategicdataintelligence.com",
+    "email": "m.brostoff@sdintelligence.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "strategic-information-resources",
+    "name": "Strategic Information Resources",
+    "domain": "strategicinfo.com",
+    "email": "jdrziak@strategicinfo.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "stratmish",
+    "name": "Stratmish, LLC",
+    "domain": "spoker.com",
+    "email": "phil@spoker.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "structure",
+    "name": "Structure",
+    "domain": "structure.ac",
+    "email": "thoran@structure.ac",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.structure.ac/opt_outs/new"
+  },
+  {
+    "id": "randall-reilly",
+    "name": "Randall-Reilly, LLC",
+    "domain": "fusable.com",
+    "email": "stuartmcnair@fusable.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal.onetrust.com/webform/49a9a972-547e-4c49-b23c-4cc77554cacb/3aab0bde-ec0c-4ce9-8e6f-cf12a9a950a5"
+  },
+  {
+    "id": "360-media-direct",
+    "name": "360 Media Direct",
+    "domain": "360mediadirect.com",
+    "email": "privacy@360mediadirect.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://360-media-direct.privacy.saymine.io/360_Media_Direct"
+  },
+  {
+    "id": "summit-resources",
+    "name": "Summit Resources, LLC",
+    "domain": "clientcommand.com",
+    "email": "legal@clientcommand.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal-cdn.onetrust.com/dsarwebform/555c3377-7eb2-4e7a-bf30-c408de4ab483/70df6685-8289-4d72-a9d7-9a736b3b837f.html"
+  },
+  {
+    "id": "suus",
+    "name": "Suus, LLC",
+    "domain": "suus.inc",
+    "email": "lcrocker@onboardpartners.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "swarm-holdings",
+    "name": "Swarm Holdings, Inc.",
+    "domain": "theswarm.com",
+    "email": "hello@theswarm.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.theswarm.com/company/do-not-sell"
+  },
+  {
+    "id": "swoopcom",
+    "name": "Swoop.Com, Inc.",
+    "domain": "swoop.com",
+    "email": "privacyrights@swoop.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://optout.swoop.com/"
+  },
+  {
+    "id": "taboola",
+    "name": "TABOOLA Inc",
+    "domain": "taboola.com",
+    "email": "privacy@taboola.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "amplemarket",
+    "name": "Amplemarket",
+    "domain": "amplemarket.com",
+    "email": "privacy@amplemarket.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.amplemarket.com/legal/do-not-sell-my-info"
+  },
+  {
+    "id": "tandem-marketing",
+    "name": "Tandem Marketing, LLC",
+    "domain": "fhamortgagefinder.com",
+    "email": "info@tandemmarketingnv.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.fhamortgagefinder.com/CCPArequest.php"
+  },
+  {
+    "id": "targetsmart-communications",
+    "name": "TARGETSMART COMMUNICATIONS LLC",
+    "domain": "targetsmart.com",
+    "email": "privacy@targetsmart.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacy.targetsmart.com/general/opt_out"
+  },
+  {
+    "id": "task-genie",
+    "name": "TASK GENIE Inc",
+    "domain": "datalane.com",
+    "email": "david@datalane.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "techtarget",
+    "name": "TECHTARGET Inc",
+    "domain": "techtarget.com",
+    "email": "privacy@techtarget.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://techtarget.zendesk.com/hc/en-us/requests/new?ticket_form_id=360004852434"
+  },
+  {
+    "id": "telefi",
+    "name": "Telefi LLC",
+    "domain": "telefi.app",
+    "email": "ccpa@telefi.app",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "telesign",
+    "name": "Telesign Corporation",
+    "domain": "telesign.com",
+    "email": "california-opt-out@telesign.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.telesign.com/privacy-requests"
+  },
+  {
+    "id": "terminus-software",
+    "name": "Terminus Software, Inc.",
+    "domain": "terminus.com",
+    "email": "privacy@terminus.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://home.terminusplatform.com/data-deletion-request"
+  },
+  {
+    "id": "the-alesco-group",
+    "name": "THE ALESCO GROUP LLC",
+    "domain": "alescodata.com",
+    "email": "paul@alescodata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://alescodata.com/opt-out-request/"
+  },
+  {
+    "id": "the-data-group",
+    "name": "The Data Group",
+    "domain": "thedatagroup.com",
+    "email": "compliance@thedatagroup.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "the-lead-company",
+    "name": "The Lead Company, Inc.",
+    "domain": "lead.co",
+    "email": "dave@lead.co",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "the-open-data-people",
+    "name": "The Open Data People, Inc.",
+    "domain": "openpeoplesearch.com",
+    "email": "info@openpeoplesearch.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.openpeoplesearch.com/Consumer"
+  },
+  {
+    "id": "the-people-searchers",
+    "name": "The People Searchers LLC",
+    "domain": "peoplesearcher.com",
+    "email": "support@peoplesearcher.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.peoplesearcher.com/optOut/name/landing"
+  },
+  {
+    "id": "throtle",
+    "name": "THROTLE Inc",
+    "domain": "throtle.io",
+    "email": "mboyle@throtle.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.throtle.io/website-privacy-policy/#cookie-id"
+  },
+  {
+    "id": "tinuiti",
+    "name": "Tinuiti, Inc.",
+    "domain": "tinuiti.com",
+    "email": "hello@tinuiti.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://tinuiti.com/privacy-policy/"
+  },
+  {
+    "id": "tiplinks",
+    "name": "Tiplinks Inc",
+    "domain": "fetcher.ai",
+    "email": "support@fetcher.ai",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://app.fetcher.ai/opt-out"
+  },
+  {
+    "id": "tl1mkt-sl-sl",
+    "name": "TL1MKT SL SL",
+    "domain": "tl1mkt.com",
+    "email": "info@tl1mkt.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.tl1mkt.com/opt-out.html"
+  },
+  {
+    "id": "t-mobile-usa",
+    "name": "T-MOBILE USA Inc",
+    "domain": "t-mobile.com",
+    "email": "mmp-privacy@t-mobile.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.t-mobile.com/dns?INTNAV=fNav%3ADoNotSell&Brand=Magenta&Site=Sell_Web&Origin_URL=https%3A%2F%2Fwww.t-mobile.com"
+  },
+  {
+    "id": "traackr",
+    "name": "Traackr, Inc.",
+    "domain": "traackr.com",
+    "email": "datarequest@traackr.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.traackr.com/data-opt-out"
+  },
+  {
+    "id": "tracers-information-specialists",
+    "name": "Tracers Information Specialists, Inc.",
+    "domain": "tracersinfo.com",
+    "email": "compliance@tracersinfo.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "neustar_com",
+    "name": "Neustar, Inc.",
+    "domain": "neustar.com",
+    "email": "usprivacy@transunion.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.optoutprescreen.com/"
+  },
+  {
+    "id": "trestle-solutions",
+    "name": "Trestle Solutions Inc.",
+    "domain": "trestleiq.com",
+    "email": "kshah@trestleiq.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://trestleiq.com/do-not-sell-my-personal-information/"
+  },
+  {
+    "id": "triplelift",
+    "name": "Triplelift, Inc.",
+    "domain": "triplelift.com",
+    "email": "privacy@triplelift.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "true-blue-analytics",
+    "name": "True Blue Analytics",
+    "domain": "trueblueanalytics.org",
+    "email": "sales@trueblueanalytics.org",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.trueblueanalytics.org/dontsellmydata"
+  },
+  {
+    "id": "truedata-solutions",
+    "name": "Truedata Solutions, Inc.",
+    "domain": "truedata.co",
+    "email": "legal@truedata.co",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://info-prod.truedata.co/opt-out-request"
+  },
+  {
+    "id": "true-opulence",
+    "name": "True Opulence Corporation",
+    "domain": "trueopulence.com",
+    "email": "info@trueopulence.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "truth-now",
+    "name": "TRUTH NOW LLC",
+    "domain": "checksecrets.com",
+    "email": "support@checksecrets.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.checksecrets.com/optOut/name/landing."
+  },
+  {
+    "id": "tsg-holdco",
+    "name": "TSG HOLDCO LLC",
+    "domain": "finthrive.com",
+    "email": "tsg@finthrive.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal.onetrust.com/webform/e2abd578-6539-47f6-9895-b18d23b76ac4/c3d22390-d038-4464-83d3-3f0c91c76a01"
+  },
+  {
+    "id": "tunnl",
+    "name": "Tunnl, LLC",
+    "domain": "tunnldata.com",
+    "email": "info@tunnldata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.tunnldata.com/privacy-policy#Universal-Opt-Out-Mechanisms"
+  },
+  {
+    "id": "twine-data",
+    "name": "Twine Data, Inc",
+    "domain": "twinedata.com",
+    "email": "bmorgan@twinedata.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "tymax-media",
+    "name": "Tymax Media",
+    "domain": "tymaxmedia.com",
+    "email": "privacyofficer@datacomplianceportal.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.tymaxmedia.com/ccpa.php"
+  },
+  {
+    "id": "ubermedia",
+    "name": "Ubermedia",
+    "domain": "ubermedia.com",
+    "email": "privacy@ubermedia.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "ga-uc-holdings",
+    "name": "GA-UC HOLDINGS Inc",
+    "domain": "unacast.com",
+    "email": "privacy@unacast.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.unacast.com/opt-out"
+  },
+  {
+    "id": "unearth-campaigns",
+    "name": "Unearth Campaigns LLC",
+    "domain": "unearthcampaigns.com",
+    "email": "privacy@unearthcampaigns.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.unearthcampaigns.com/opt-out/"
+  },
+  {
+    "id": "united-one-resources",
+    "name": "United One Resources, Inc.",
+    "domain": "unitedone.com",
+    "email": "lbrady@unitedone.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "unity-technologies-sf",
+    "name": "Unity Technologies SF",
+    "domain": "unity.com",
+    "email": "dpo@unity3d.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.unity.com/legal/do-not-sell-my-personal-information"
+  },
+  {
+    "id": "unmask",
+    "name": "Unmask, LLC",
+    "domain": "unmask.com",
+    "email": "operations@unmask.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "ups-capital",
+    "name": "UPS Capital Corporation",
+    "domain": "upscapital.com",
+    "email": "upscapitalitprivacy@ups.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.upscapital.com/opt-out/"
+  },
+  {
+    "id": "usadata",
+    "name": "Usadata, Inc.",
+    "domain": "usadata.com",
+    "email": "support@usadata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.usadata.com/donotsellmyinformation"
+  },
+  {
+    "id": "us-data",
+    "name": "US DATA CORPORATION",
+    "domain": "usdatacorporation.com",
+    "email": "abradley@usdatacorporation.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.usdatacorporation.com/opt-out"
+  },
+  {
+    "id": "us-marketing-group",
+    "name": "US Marketing Group",
+    "domain": "usmarketinggrp.com",
+    "email": "privacy@usmarketinggrp.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.usmarketinggrp.com/privacy-policy/#CCPA"
+  },
+  {
+    "id": "uspeoplesearchcom",
+    "name": "Uspeoplesearch.Com, LLC",
+    "domain": "uspeoplesearch.com",
+    "email": "operations@uspeoplesearch.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "datamentors-2",
+    "name": "Datamentors LLC",
+    "domain": "v12data.com",
+    "email": "pkuman@v12data.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.v12data.com/inbound/do-not-sell-my-personal-information/"
+  },
+  {
+    "id": "valassis-direct-mail",
+    "name": "Valassis Direct Mail, Inc.",
+    "domain": "rrd.com",
+    "email": "valassisprivacy.request@rrd.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.rrd.com/do-not-sell"
+  },
+  {
+    "id": "veeva-systems",
+    "name": "Veeva Systems Inc.",
+    "domain": "veeva.com",
+    "email": "privacy@veeva.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.veeva.com/privacy/do-not-sell-share/"
+  },
+  {
+    "id": "vendelux",
+    "name": "Vendelux",
+    "domain": "vendelux.com",
+    "email": "privacy@vendelux.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "venntel",
+    "name": "Venntel, Inc.",
+    "domain": "venntel.com",
+    "email": "legal@venntel.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.venntel.com/opt-out"
+  },
+  {
+    "id": "venpath",
+    "name": "VENPATH Inc",
+    "domain": "venpath.net",
+    "email": "accounting@venpath.net",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.venpath.net/legal/opt-out"
+  },
+  {
+    "id": "ventiveiq",
+    "name": "Ventiveiq LLC",
+    "domain": "ventiveiq.com",
+    "email": "privacy@ventiveiq.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal.privacypillar.com/dsar/form?orgid=0c31c814-ea86-461f-8ccb-294f05bc74c3&propid=cc95835d-7719-4336-b0c4-18146e5d000a&formid=4348f332-6917-4566-8c56-6fc9eb57097f&status=publish"
+  },
+  {
+    "id": "veraset",
+    "name": "Veraset LLC",
+    "domain": "veraset.com",
+    "email": "privacy@veraset.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.veraset.com/do-not-sell-my-personal-information"
+  },
+  {
+    "id": "verse-gaming",
+    "name": "Verse Gaming",
+    "domain": "versefantasysports.com",
+    "email": "dan@versegaming.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "versium-analytics",
+    "name": "Versium Analytics, Inc",
+    "domain": "versium.com",
+    "email": "optout@versium.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://versium.com/ccpa-opt-out"
+  },
+  {
+    "id": "vertify",
+    "name": "Vertify, Inc",
+    "domain": "vertify.com",
+    "email": "gpineda@vertify.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "viant-technology",
+    "name": "Viant Technology LLC",
+    "domain": "viantinc.com",
+    "email": "bnojima@viantinc.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.viantinc.com/privacy-policy/#opt-out"
+  },
+  {
+    "id": "videoamp",
+    "name": "Videoamp, Inc.",
+    "domain": "videoamp.com",
+    "email": "legal@videoamp.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.videoamp.com/consumer-rights-under-ccpa"
+  },
+  {
+    "id": "virtual-marketing",
+    "name": "Virtual Marketing LLC",
+    "domain": "fusion92.com",
+    "email": "databroker@fusion92.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.fusion92.com/privacy-choices"
+  },
+  {
+    "id": "visitiqio",
+    "name": "Visitiq.Io",
+    "domain": "visitiq.io",
+    "email": "support@visitiq.io",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://visitiq.io/opt-out-form/"
+  },
+  {
+    "id": "vistar-media",
+    "name": "Vistar Media, Inc.",
+    "domain": "vistarmedia.com",
+    "email": "privacy@vistarmedia.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.vistarmedia.com/privacy-choices"
+  },
+  {
+    "id": "visual-visitor",
+    "name": "VISUAL VISITOR LLC",
+    "domain": "visualvisitor.com",
+    "email": "privacy@visualvisitor.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.visualvisitor.com/opt-out/"
+  },
+  {
+    "id": "vrtcal-markets",
+    "name": "VRTCAL Markets Inc",
+    "domain": "vrtcal.com",
+    "email": "privacy@vrtcal.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.vrtcal.com/opt-out/"
+  },
+  {
+    "id": "warmly",
+    "name": "Warmly, Inc",
+    "domain": "warmly.ai",
+    "email": "vendors@warmly.ai",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://warmly.ai/p/consumer-rights-request"
+  },
+  {
+    "id": "wealthfeed",
+    "name": "Wealthfeed, Inc.",
+    "domain": "wealthfeed.com",
+    "email": "info@wealthfeed.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "webbula",
+    "name": "Webbula, LLC",
+    "domain": "webbula.com",
+    "email": "support@webbula.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://webbula.com/opt-out-request/"
+  },
+  {
+    "id": "we-inform",
+    "name": "WE INFORM LLC",
+    "domain": "weinform.org",
+    "email": "support@weinform.org",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.weinform.org/optOut/name/landing"
+  },
+  {
+    "id": "west-publishing",
+    "name": "West Publishing Corporation",
+    "domain": "thomsonreuters.com",
+    "email": "clear.pm-compliance@thomsonreuters.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.thomsonreuters.com/ccpa-dsar"
+  },
+  {
+    "id": "wholesale-mail",
+    "name": "Wholesale Mail",
+    "domain": "domymail.com",
+    "email": "jenny@helmerprinting.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "whoodle",
+    "name": "Whoodle, LLC",
+    "domain": "whoodle.com",
+    "email": "support@whoodle.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "wiland",
+    "name": "Wiland Inc",
+    "domain": "wiland.com",
+    "email": "privacy@wiland.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.wiland.com/privacy-choices#how-to-submit-privacy-choices"
+  },
+  {
+    "id": "windfall-data",
+    "name": "Windfall Data, Inc.",
+    "domain": "windfalldata.com",
+    "email": "privacy@windfalldata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.windfall.com/do-not-sell-my-info"
+  },
+  {
+    "id": "winr-data-bv",
+    "name": "WINR Data B.V.",
+    "domain": "winrdata.com",
+    "email": "privacy@winrdata.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal-au.onetrust.com/webform/ad3cafad-4bf2-4d22-951f-57cc1fd05690/5fa8f2da-0508-42a6-bbc7-9b031898d10c"
+  },
+  {
+    "id": "wisdom-media-group",
+    "name": "Wisdom Media Group LLC",
+    "domain": "wisdommediagroupllc.com",
+    "email": "contact@wisdommediagroupllc.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.wisdommediagroupllc.com/unsubscribe.php"
+  },
+  {
+    "id": "wiza",
+    "name": "Wiza, Inc.",
+    "domain": "wiza.co",
+    "email": "hello@wiza.co",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.wiza.co/optout_directory"
+  },
+  {
+    "id": "wunderkind",
+    "name": "Wunderkind Corporation",
+    "domain": "wunderkind.co",
+    "email": "privacy@wunderkind.co",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.wunderkind.co/privacy/opt-out-of-data-processing/"
+  },
+  {
+    "id": "xactus",
+    "name": "Xactus, LLC",
+    "domain": "xactus.com",
+    "email": "carolyn.casey@xactus.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "xad",
+    "name": "Xad, Inc.",
+    "domain": "groundtruth.com",
+    "email": "legal@groundtruth.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.groundtruth.com/privacy-rights/"
+  },
+  {
+    "id": "xcelerated-data",
+    "name": "Xcelerated Data LLC",
+    "domain": "xcelerated.com",
+    "email": "privacy@xcelerated.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "x-mode-social",
+    "name": "X-Mode Social, Inc.",
+    "domain": "xmode.io",
+    "email": "ap@xmodesocial.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://outlogic.io/opt-out-form/"
+  },
+  {
+    "id": "xome-leads",
+    "name": "Xome Leads LLC",
+    "domain": "xome.com",
+    "email": "licensing@xome.com",
+    "country": "US",
+    "category": "Marketing"
+  },
+  {
+    "id": "yobi-ventures",
+    "name": "Yobi Ventures, LLC",
+    "domain": "yobi.ventures",
+    "email": "admin@yobi.ventures",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.yobi.ventures/opt-out"
+  },
+  {
+    "id": "eab-global",
+    "name": "EAB Global, Inc.",
+    "domain": "appily.com",
+    "email": "privacy@eab.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://cappex.formstack.com/forms/do_not_sell"
+  },
+  {
+    "id": "zeotap-gmbh",
+    "name": "Zeotap GmbH",
+    "domain": "zeotap.com",
+    "email": "team.legal@zeotap.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://privacyportal-de.onetrust.com/webform/bdcc4a2f-2458-4e17-96c3-cf88f7115dfc/2c5e70e5-643a-4c1e-b9c2-1e71584d04ad"
+  },
+  {
+    "id": "zipstorm",
+    "name": "Zipstorm LLC",
+    "domain": "seekout.com",
+    "email": "privacy@seekout.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.seekout.com/privacy/choices"
+  },
+  {
+    "id": "zs-associates",
+    "name": "ZS ASSOCIATES Inc",
+    "domain": "zs.com",
+    "email": "dataprivacy@zs.com",
+    "country": "US",
+    "category": "Marketing",
+    "opt_out_url": "https://www.zs.com/data-request"
+  }
+]
