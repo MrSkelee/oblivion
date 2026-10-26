@@ -21,6 +21,7 @@
 - [Quick Start](#quick-start)
 - [Rate Limiting & Safety](#rate-limiting--safety)
 - [Legal Disclaimer](#legal-disclaimer)
+- [Feedback & Issues](#feedback--issues)
 - [License](#license)
 
 ---
@@ -133,6 +134,12 @@ Data broker removal requires contacting hundreds of separate companies. Oblivion
 
 > **Oblivion is an automated tool designed solely for exercising lawful personal privacy rights under GDPR (Art. 17 & 21) and CCPA.**
 > Users are responsible for ensuring that deletion requests reflect their own verified identifiers.
+
+---
+
+## Feedback & Issues
+
+Oblivion is an evolving, community-driven project and may not be 100% perfect in every edge case. If you have feature suggestions, encounter unexpected responses, or discover outdated broker endpoints, please feel free to [open an Issue](https://github.com/MrSkelee/oblivion/issues) or submit a Pull Request.
 
 ---
 
